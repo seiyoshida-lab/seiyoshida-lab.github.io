@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-<img dynsrc="../videos/video7.avi" width="700px" controls>
+<embed src="../videos/video7.avi" width="700px" controls>
 
 ---
 
