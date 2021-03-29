@@ -26,7 +26,7 @@ author_profile: true
 
 ---
 
-<video src="../videos/video1.mp4" width="600px" controls></video>
+<video src="../videos/video1.mp4" controls></video>
 
 ---
 
