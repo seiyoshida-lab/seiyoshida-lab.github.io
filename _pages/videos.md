@@ -6,6 +6,10 @@ author_profile: true
 
 ---
 
+<video src="../videos/video3.mp4" width="600px" controls></video>
+
+---
+
 <video src="../videos/video7.mp4" width="600px" controls></video>
 
 ---
@@ -16,9 +20,6 @@ author_profile: true
 
 <video src="../videos/video5.mp4" width="600px" controls></video>
 
----
-
-<video src="../videos/video3.mp4" width="600px" controls></video>
 
 ---
 
