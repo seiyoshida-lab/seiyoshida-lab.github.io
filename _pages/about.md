@@ -1,0 +1,45 @@
+---
+permalink: /
+title: "Macropinocytosis/PI3K-AKT-mTORC1 Pathway "
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>text-align用法</title> 
+<style>
+p.main {text-align:justify; width="550px";}
+</style>
+</head>
+<body>
+<p class="main"><br/>Our lab is studying the molecular mechanism and the physiological/pathological relevance of PI3K-AKT-mTORC1 pathway in the context of longevity.<br/>
+  <br/>The main research directions are:<br/>
+&emsp;1. Role of macropinocytosis, a large-scale endocytosis, in AKT activation.<br/>
+&emsp;2. Role of the interaction of macropinocytosis-mTORC1 pathway in cancer development.<br/>
+&emsp;3. Role of macropinocytosis in podocyte, kidney epithelial cell.<br/>
+<br/>The extensive breadth and diversity in our research areas (cell biology, biochemistry, nephrology, microbiology, and immunology) enable us to make momentous contributions to the understanding of human health and disease.<br/></p>
+</body>
+</html>
+
+<video src="../images/PIP3inMP.mp4"  width="600px" height="300px" controls></video>
+
+**[Contact us freely](https://sei-lab-nankai.github.io/joinus/)  if you are interested in our projects!**
+
+Related Links
+------
+·[First person – Sei Yoshida](https://jcs.biologists.org/content/131/22/jcs226373).
+
+·[Bacteria tear down microtubules](https://rupress.org/jcb/article/158/1/10/32890/Bacteria-tear-down-microtubules).
+
+·[Bacterial Bushwacking Through a Microtubule Jungle. Science(2006)](https://science.sciencemag.org/content/314/5801/931).
+
+·[Growth factor signal transduction through dorsal ruffles. JCS(2018)](https://jcs.biologists.org/content/131/22/e2201).
+
+Lab Party Time
+------
+![party](/images/party.png "party")

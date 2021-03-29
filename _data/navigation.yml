@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/    
+    
+  - title: "Publications"
+    url: /publications/  
+    
+  - title: "Images"
+    url: /images/
+    
+  - title: "Videos"
+    url: /videos/
+        
+  - title: "Members"
+    url: /members/
+
+  - title: "Join Us"
+    url: /joinus/
+    
+  - title: "News"
+    url: /news/
+
+  - title: "Cooperation"
+    url: /cooperation/
