@@ -25,7 +25,7 @@ author_profile: true
     .cbp_tmtimeline li .cbp_tmlabel p:before {
       content: '';
       position: absolute;
-      top: 35px;
+      top: 15px;
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
@@ -84,15 +84,39 @@ author_profile: true
   
   <div class="main">
     <ul class="cbp_tmtimeline">
-      <li>
-        <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
+        <li>
+        <div class="cbp_tmicon cbp_tmicon-screen">Lewis 1931</div>
         <div class="cbp_tmlabel">
-          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
-           <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.</p>
+          <h2>The world's First Live-Cell Imaging</h2>
+           <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis in 1931. An isolated mouse macrophage induces macropinocytosis.</p>
         </div>
       </li>
-      <li>
+       <li>
+        <div class="cbp_tmicon cbp_tmicon-earth">EMBO 2002</div>
+        <div class="cbp_tmlabel">
+           <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
+          <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.</p>
+        </div>
+      </li>
+        <li>
+        <div class="cbp_tmicon cbp_tmicon-phone">Year</div>
+        <div class="cbp_tmlabel">
+          <h2>Macrophage Macropinocytosis</h2>
+          <video src="../videos/video6.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>Time-lapse images of macrophage macropinocytosis. After macrophage-colony stimulating factor (MCSF), the cells induce membrane ruffles, some of which convert to macropinocytosis.</p>
+        </div>
+      </li>
+        <li>
+        <div class="cbp_tmicon cbp_tmicon-mail">Year</div>
+        <div class="cbp_tmlabel">
+          <h2>Comparison of Phage and Ratio Images</h2>
+          <video src="../videos/video2.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).</p>
+        </div>
+      </li>
+     <li>
         <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of "Squidlysis"</h2>
@@ -101,35 +125,11 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-mail">Year</div>
+        <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
-          <h2>Comparison of Phage and Ratio Images</h2>
-          <video src="../videos/video2.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).</p>
-        </div>
-      </li>
-      <li>
-        <div class="cbp_tmicon cbp_tmicon-phone">Year</div>
-        <div class="cbp_tmlabel">
-          <h2>Macrophage Macropinocytosis</h2>
-          <video src="../videos/video6.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>Time-lapse images of macrophage macropinocytosis. After macrophage-colony stimulating factor (MCSF), the cells induce membrane ruffles, some of which convert to macropinocytosis.</p>
-        </div>
-      </li>
-      <li>
-        <div class="cbp_tmicon cbp_tmicon-earth">EMBO 2002</div>
-        <div class="cbp_tmlabel">
-           <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
-          <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.</p>
-        </div>
-      </li>
-      <li>
-        <div class="cbp_tmicon cbp_tmicon-screen">Lewis 1931</div>
-        <div class="cbp_tmlabel">
-          <h2>The world's First Live-Cell Imaging</h2>
-           <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis in 1931. An isolated mouse macrophage induces macropinocytosis.</p>
+          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
+           <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.</p>
         </div>
       </li>
     </ul>
