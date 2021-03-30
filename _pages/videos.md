@@ -90,18 +90,18 @@ author_profile: true
           <h2>The world's First Live-Cell Imaging</h2>
            <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
           <p>The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis in 1931. An isolated mouse macrophage induces macropinocytosis.</p>
-           <hr align="left" width="750px" color="#5F5F5F" size="3">
         </div>
       </li>
+        <hr align="left" width="750px" color="#5F5F5F" size="3">
        <li>
         <div class="cbp_tmicon cbp_tmicon-earth">EMBO 2002</div>
         <div class="cbp_tmlabel">
            <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
           <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
           <p>Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.</p>
-           <hr align="left" width="750px" color="#5F5F5F" size="3">
         </div>
       </li>
+          <hr align="left" width="750px" color="#5F5F5F" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-phone">Year</div>
         <div class="cbp_tmlabel">
