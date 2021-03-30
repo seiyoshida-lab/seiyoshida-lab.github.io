@@ -12,9 +12,8 @@ author_profile: true
     }
     .main {
       width: 120%;
-      margin: 0;
+      margin: 0 0px 0px -20px;
       padding: 0 1.875em 3.125em 1.875em;
-      left: -30%;
     }
     .cbp_tmtimeline {
       margin: 3px 0 0 0;
