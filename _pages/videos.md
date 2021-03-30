@@ -5,6 +5,7 @@ permalink: /videos/
 author_profile: true
 
 ---
+
 <div class="container">
     <ul class="time-horizontal">
         <li><b></b>成立</li>
@@ -13,7 +14,7 @@ author_profile: true
         <li><b></b>共赢</li>
     </ul>
 </div>
-/*横向时间轴*/
+
 <style>
 .time-horizontal {
     list-style-type: none;
