@@ -8,10 +8,12 @@ author_profile: true
 
 <div class="container">
     <ul class="time-horizontal">
-        <li><b></b>成立</li>
-        <li><b></b>合作</li>
-        <li><b></b>发展</li>
-        <li><b></b>共赢</li>
+        <li><b></b>First Live-Cell Imaging (Warren Harton Lewis, 1931)</li>
+        <li><b></b>COS7 Cell Infected by Shigella Flexneri(EMBO, 2002)</li>
+        <li><b></b>Macrophage Macropinocytosis</li>
+        <li><b></b>Comparison of Phage and Ratio Images</li>
+        <li><b></b>Live-Cell Imaging of "Squidlysis" (JCB 2015)</li>
+        <li><b></b>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH<br> and CFP after Stimulated by Growth Factor (JCS 2018)</li>
     </ul>
 </div>
 
