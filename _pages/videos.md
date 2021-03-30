@@ -56,7 +56,7 @@ author_profile: true
       text-align: right;
       left: 0;
       top: 0;
-      margin: 0 0 0 -60px;
+      margin: 0 0 0 -65px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
       background: #6AA4CF;
