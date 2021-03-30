@@ -5,7 +5,7 @@ permalink: /videos/
 author_profile: true
 
 ---
-<hr align="left" width="770px" color="#5F5F5F" size="5">
+<hr align="left" width="800px" color="#5F5F5F" size="5">
 
 <style>
     *, *:after, *:before {
@@ -57,7 +57,7 @@ author_profile: true
       text-align: center;
       left: 0;
       top: 0;
-      margin: 0 0 0 -45px;
+      margin: 0 0 0 -50px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
       background: #6AA4CF;
@@ -140,4 +140,4 @@ author_profile: true
     </ul>
   </div>
 
-<hr align="left" width="760px" color="#5F5F5F" size="5">
+<hr align="left" width="800px" color="#5F5F5F" size="5">
