@@ -28,7 +28,7 @@ author_profile: true
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
-      left: -15%;
+      left: -30%;
     }
     .cbp_tmtimeline > li {
       position: relative;
