@@ -84,8 +84,12 @@ author_profile: true
       <li>
         <div class="cbp_tmicon cbp_tmicon-phone">D1</div>
         <div class="cbp_tmlabel">
-          <h2>Ricebean black-eyed pea</h2>
-          <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape radish bush tomato ricebean black-eyed pea maize eggplant. Cabbage lentil cucumber chickpea sorrel gram garbanzo plantain lotus root bok choy squash cress potato summer purslane salsify fennel horseradish dulse. Winter purslane garbanzo artichoke broccoli lentil corn okra silver beet celery quandong. Plantain salad beetroot bunya nuts black-eyed pea collard greens radish water spinach gourd chicory prairie turnip avocado sierra leone bologi.</p>
+          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</h2>
+           <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
+          <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
+YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like"<br>
+structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio<br>
+(YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br></p>
         </div>
       </li>
       <li>
