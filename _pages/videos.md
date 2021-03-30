@@ -5,6 +5,42 @@ permalink: /videos/
 author_profile: true
 
 ---
+<div class="container">
+    <ul class="time-horizontal">
+        <li><b></b>成立</li>
+        <li><b></b>合作</li>
+        <li><b></b>发展</li>
+        <li><b></b>共赢</li>
+    </ul>
+</div>
+/*横向时间轴*/
+.time-horizontal {
+    list-style-type: none;
+    border-top: 1px solid #707070;
+    max-width: 800px;
+    padding: 0px;
+    margin: 0px;
+}
+ 
+.time-horizontal li {
+    float: left;
+    position: relative;
+    text-align: center;
+    width: 25%;
+    padding-top: 10px;
+}
+ 
+.time-horizontal li b:before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 47%;
+    width: 12px;
+    height: 12px;
+    border: 2px solid #4c4c4c;
+    border-radius: 8px;
+    background: #4c4c4c;
+}
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
