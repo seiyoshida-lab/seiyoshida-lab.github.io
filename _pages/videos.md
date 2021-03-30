@@ -12,7 +12,7 @@ author_profile: true
       box-sizing: border-box;
     }
    .main {
-      width: 85%;
+      width: 80%;
       margin: 0 0 0 0;
       padding: 0 0 0 -10px;
     }
@@ -66,7 +66,7 @@ author_profile: true
       margin: 0 0 0 0;
       background: #8EB3CF;
       color: #fff;
-      padding: 0;
+      padding: 2em;
       font-family: 'Arial';
       font-size: 1em;
       font-weight: 300;
