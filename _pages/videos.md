@@ -43,10 +43,10 @@ author_profile: true
     .cbp_tmtimeline > li .cbp_tmicon {
       width: 40px;
       height: 40px;
-      font-family: 'ecoico';
+      font-family: 'Arial';
       speak: none;
       font-style: normal;
-      font-weight: normal;
+      font-weight: bold;
       font-variant: normal;
       text-transform: none;
       font-size: 0.8em;
@@ -66,7 +66,7 @@ author_profile: true
       margin: 0 0 0 0;
       background: #8EB3CF;
       color: #fff;
-      padding: 2em;
+      padding: 0 2em;
       font-family: 'Arial';
       font-size: 1em;
       font-weight: 300;
