@@ -12,8 +12,8 @@ author_profile: true
       box-sizing: border-box;
     }
    .main {
-      width: 85%;
-      margin: 0 0 0 -45px;
+      width: 80%;
+      margin: 0 0 0 -35px;
       padding: 0 0 0 0;
     }
     .cbp_tmtimeline {
@@ -64,7 +64,7 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmlabel {
       margin: 0 0 15px 5%;
-      background: #E6E6E6;
+      background: #8EB3CF;
       color: #000;
       padding: 2em;
       font-family: 'Arial';
