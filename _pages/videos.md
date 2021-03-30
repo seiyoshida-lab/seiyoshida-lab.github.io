@@ -25,7 +25,7 @@ author_profile: true
     .cbp_tmtimeline li .cbp_tmlabel p:before {
       content: '';
       position: absolute;
-      top: 45px;
+      top: 35px;
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
@@ -49,8 +49,8 @@ author_profile: true
       font-weight: bold;
       font-variant: normal;
       text-transform: none;
-      font-size: 0.8em;
-      line-height: 15px;
+      font-size: 1em;
+      line-height: 20px;
       -webkit-font-smoothing: antialiased;
       position: absolute;
       color: #000;
@@ -68,15 +68,13 @@ author_profile: true
       color: #fff;
       padding: 1em 1.5em;
       font-family: 'Arial';
-      font-size: 2em;
+      font-size: 1.8em;
       font-weight: 300;
       line-height: 1.4;
       position: relative;
       border-radius: 5px;
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
-      font-family: 'Arial';
-      font-size: 1em;
       margin-top: 0px;
       padding: 0 0 0 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
