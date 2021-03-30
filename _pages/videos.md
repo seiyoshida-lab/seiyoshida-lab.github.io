@@ -41,7 +41,7 @@ author_profile: true
       position: absolute;
     }
     .cbp_tmtimeline > li .cbp_tmicon {
-      width: 40px;
+      width: 60px;
       font-family: 'Arial';
       speak: none;
       font-style: normal;
@@ -56,7 +56,7 @@ author_profile: true
       text-align: right;
       left: 0;
       top: 0;
-      margin: 0 0 0 -50px;
+      margin: 0 0 0 -60px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
       background: #6AA4CF;
@@ -93,7 +93,7 @@ author_profile: true
       </li>
         <hr align="left" width="750px" color="#5F5F5F" size="3">
        <li>
-        <div class="cbp_tmicon cbp_tmicon-earth">JCI 2006</div>
+        <div class="cbp_tmicon cbp_tmicon-earth">Science 2006</div>
         <div class="cbp_tmlabel">
            <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
           <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
