@@ -94,7 +94,7 @@ author_profile: true
       </li>
         <hr align="left" width="750px" color="#5F5F5F" size="3">
        <li>
-        <div class="cbp_tmicon cbp_tmicon-earth">EMBO 2002</div>
+        <div class="cbp_tmicon cbp_tmicon-earth">Science 2006</div>
         <div class="cbp_tmlabel">
            <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
           <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -110,6 +110,7 @@ author_profile: true
           <p>Time-lapse images of macrophage macropinocytosis. After macrophage-colony stimulating factor (MCSF), the cells induce membrane ruffles, some of which convert to macropinocytosis.</p>
         </div>
       </li>
+       <hr align="left" width="750px" color="#5F5F5F" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-mail">Year</div>
         <div class="cbp_tmlabel">
@@ -118,6 +119,7 @@ author_profile: true
           <p>Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).</p>
         </div>
       </li>
+       <hr align="left" width="750px" color="#5F5F5F" size="3">
      <li>
         <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
         <div class="cbp_tmlabel">
@@ -126,6 +128,7 @@ author_profile: true
           <p>Tubular lysosomes and macropinosomes were stained by TRDx (Bottom-Right) and LY (Bottom-Left), respectively. Merge image (Middle-LEFT) shows that tubular lysosomes (as black in the image) elongate the structure to fuse with macropinosomes (white).</p>
         </div>
       </li>
+       <hr align="left" width="750px" color="#5F5F5F" size="3">
       <li>
         <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
