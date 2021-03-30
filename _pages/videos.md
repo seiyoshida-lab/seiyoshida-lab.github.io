@@ -66,7 +66,7 @@ author_profile: true
       margin: 0 0 0 0;
       background: #8EB3CF;
       color: #fff;
-      padding: 2em;
+      padding: 0;
       font-family: 'Arial';
       font-size: 1em;
       font-weight: 300;
