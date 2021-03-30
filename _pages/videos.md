@@ -50,7 +50,7 @@ author_profile: true
       font-variant: normal;
       text-transform: none;
       font-size: 0.8em;
-      line-height: 25px;
+      line-height: 15px;
       -webkit-font-smoothing: antialiased;
       position: absolute;
       color: #000;
@@ -66,7 +66,7 @@ author_profile: true
       margin: 0 0 0 0;
       background: #8EB3CF;
       color: #fff;
-      padding: 0 2em;
+      padding: 1em 2em;
       font-family: 'Arial';
       font-size: 1em;
       font-weight: 300;
@@ -75,6 +75,8 @@ author_profile: true
       border-radius: 5px;
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
+      font-family: 'Arial';
+      font-size: 0.8em;
       margin-top: 0px;
       padding: 0 0 0 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
@@ -84,7 +86,7 @@ author_profile: true
   <div class="main">
     <ul class="cbp_tmtimeline">
       <li>
-        <div class="cbp_tmicon cbp_tmicon-phone">JCS, 2018</div>
+        <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
            <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -92,7 +94,7 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-screen">JCB, 2015</div>
+        <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of "Squidlysis"</h2>
           <video src="../videos/video3.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -116,7 +118,7 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-earth">EMBO, 2002</div>
+        <div class="cbp_tmicon cbp_tmicon-earth">EMBO 2002</div>
         <div class="cbp_tmlabel">
            <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
           <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -124,7 +126,7 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-screen">Lewis, 1931</div>
+        <div class="cbp_tmicon cbp_tmicon-screen">Lewis 1931</div>
         <div class="cbp_tmlabel">
           <h2>The world's First Live-Cell Imaging</h2>
            <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
