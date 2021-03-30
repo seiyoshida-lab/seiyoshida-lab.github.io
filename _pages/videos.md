@@ -13,18 +13,19 @@ author_profile: true
 <video src="../videos/video6.mp4" width="700px" autoplay=true loop=true controls></video>
 
 ---
-<p style="font-family:arial;font-weight:bold;font-size:20px;">A COS7 Cell Infected by Shigella Flexneri</p>
-<video src="../videos/video5.mp4" width="700px" autoplay=true loop=true controls></video>
-Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). <br>
-Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.
-
----
 
 <video src="../videos/video3.mp4" width="700px" autoplay=true loop=true controls></video>
 
 ---
 
 <video src="../videos/video2.mp4" width="700px" autoplay=true loop=true controls></video>
+
+---
+
+<p style="font-family:arial;font-weight:bold;font-size:20px;">A COS7 Cell Infected by Shigella Flexneri</p>
+<video src="../videos/video5.mp4" width="700px" autoplay=true loop=true controls></video>
+Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). <br>
+Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.
 
 ---
 
