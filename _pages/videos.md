@@ -119,7 +119,7 @@ author_profile: true
         </div>
       </li>
        <hr align="left" width="750px" color="#5F5F5F" size="3">
-     <li>
+        <li>
         <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of "Squidlysis"</h2>
@@ -128,7 +128,7 @@ author_profile: true
         </div>
       </li>
        <hr align="left" width="750px" color="#5F5F5F" size="3">
-      <li>
+        <li>
         <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
