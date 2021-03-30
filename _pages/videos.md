@@ -29,7 +29,7 @@ author_profile: true
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
-      left: -7.5%;
+      left: -1%;
     }
     .cbp_tmtimeline > li {
       position: relative;
@@ -79,6 +79,7 @@ author_profile: true
       border-bottom: 1px solid rgba(255,255,255,0.4);
     }
   </style>
+  
   <div class="main">
     <ul class="cbp_tmtimeline">
       <li>
