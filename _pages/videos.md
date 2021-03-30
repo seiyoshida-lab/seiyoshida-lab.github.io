@@ -13,7 +13,7 @@ author_profile: true
 
 <video src="../videos/video2.mp4" width="700px" autoplay=true loop=true controls></video>
 
-<hr align=left width=700 color=#987cb9 size=2>
+<hr align="left" width="700px" color="#987cb9" size="2">
 
 <p style="font-family:arial;font-weight:bold;font-size:20px;">Comparison of Phage and Ratio Images.</p>
 <video src="../videos/video7.mp4" width="700px" autoplay=true loop=true controls></video>
