@@ -57,14 +57,14 @@ author_profile: true
       text-align: center;
       left: 0;
       top: 0;
-      margin: 0 0 0 -30px;
+      margin: 0 0 0 -25px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-      background: #FFFFFF;
+      background: #6298B7;
     }
     .cbp_tmtimeline > li .cbp_tmlabel {
       margin: 0 0 15px 5%;
-      background: #FFFFFF;
+      background: #406377;
       color: #000;
       padding: 2em;
       font-size: 1.2em;
@@ -75,7 +75,7 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
       margin-top: 0px;
-      padding: 0 0 10px 0;
+      padding: 0 0 5px 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
     }
   </style>
@@ -83,7 +83,7 @@ author_profile: true
   <div class="main">
     <ul class="cbp_tmtimeline">
       <li>
-        <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
+        <div class="cbp_tmicon cbp_tmicon-phone">JCS, 2018</div>
         <div class="cbp_tmlabel">
           <h2>ive-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
            <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -91,7 +91,7 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
+        <div class="cbp_tmicon cbp_tmicon-screen">JCB, 2015</div>
         <div class="cbp_tmlabel">
           <h2>Live-Cell Imaging of "Squidlysis"</h2>
           <video src="../videos/video3.mp4" width="650px" autoplay=true loop=true controls></video>
@@ -123,7 +123,7 @@ author_profile: true
         </div>
       </li>
       <li>
-        <div class="cbp_tmicon cbp_tmicon-screen">Warren Harton Lewis, 1931</div>
+        <div class="cbp_tmicon cbp_tmicon-screen">Lewis, 1931</div>
         <div class="cbp_tmlabel">
           <h2>The world's First Live-Cell Imaging</h2>
            <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
