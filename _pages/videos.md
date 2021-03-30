@@ -36,8 +36,8 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmtime {
       display: block;
-      width: 2%;
-      padding-right: 1px;
+      width: -3%;
+      padding-right: 10px;
       position: absolute;
     }
     .cbp_tmtimeline > li .cbp_tmicon {
