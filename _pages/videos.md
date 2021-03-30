@@ -5,32 +5,6 @@ permalink: /videos/
 author_profile: true
 
 ---
-<div class="time_line_box">
-            <div class="time_line" style="width:100%;">
-                <ol>
-                    <li>
-                        <a class="order_item" style="left:10%;">预约</a>
-                    </li>
-                    <li>
-                        <a class="order_item selected" style="left:25%;">行家确认</a>
-                    </li>
-                    <li>
-                        <a class="order_item" style="left:45%;">付款</a>
-                    </li>
-                    <li>
-                        <a class="order_item" style="left:65%;">见面</a>
-                    </li>
-                    <li>
-                        <a class="order_item" style="left:85%;">评价</a>
-                    </li>
-                </ol>
-                <span class="filling_line" style="transform: scaleX(0.28);"></span>
-            </div>
-        </div>
-        <div class="time_tip">
-                付款剩余时间：23：58
-        </div>>
-
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
