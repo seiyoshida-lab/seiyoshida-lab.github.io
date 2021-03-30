@@ -25,7 +25,7 @@ author_profile: true
     .cbp_tmtimeline li .cbp_tmlabel p:before {
       content: '';
       position: absolute;
-      top: 15px;
+      top: 40px;
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
