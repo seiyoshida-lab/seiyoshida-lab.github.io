@@ -60,11 +60,11 @@ author_profile: true
       margin: 0 0 0 -30px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-      background: #6cbfee;
+      background: #8DCBEE;
     }
     .cbp_tmtimeline > li .cbp_tmlabel {
       margin: 0 0 15px 5%;
-      background: #3594cb;
+      background: #66AED6;
       color: #fff;
       padding: 2em;
       font-size: 1.2em;
@@ -85,7 +85,7 @@ author_profile: true
       <li>
         <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
-          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor</h2>
+          <h2>ive-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor</h2>
            <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
           <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.</p>
         </div>
@@ -101,7 +101,6 @@ author_profile: true
       <li>
         <div class="cbp_tmicon cbp_tmicon-mail">Year</div>
         <div class="cbp_tmlabel">
-           <p style="font-family:arial;font-weight:bold;font-size:20px;">Comparison of Phage and Ratio Images</p>
           <h2>Comparison of Phage and Ratio Images</h2>
           <video src="../videos/video2.mp4" width="650px" autoplay=true loop=true controls></video>
           <p>Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).</p>
