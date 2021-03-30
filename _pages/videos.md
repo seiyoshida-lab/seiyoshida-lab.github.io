@@ -5,7 +5,7 @@ permalink: /videos/
 author_profile: true
 
 ---
-
+---
 <p style="font-family:arial;font-weight:bold;font-size:20px;">Comparison of Phage and Ratio Images.</p>
 <video src="../videos/video7.mp4" width="700px" autoplay=true loop=true controls></video>
 Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).
