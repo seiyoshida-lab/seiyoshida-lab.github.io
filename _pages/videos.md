@@ -91,7 +91,7 @@ author_profile: true
           <p>The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis in 1931. An isolated mouse macrophage induces macropinocytosis.</p>
         </div>
       </li>
-        <hr align="left" width="750px" color="#5F5F5F" size="3">
+        <hr align="left" width="750px" color="#E6E6E6" size="3">
        <li>
         <div class="cbp_tmicon cbp_tmicon-earth">Science 2006</div>
         <div class="cbp_tmlabel">
@@ -100,7 +100,7 @@ author_profile: true
           <p>Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.</p>
         </div>
       </li>
-          <hr align="left" width="750px" color="#5F5F5F" size="3">
+          <hr align="left" width="750px" color="#E6E6E6" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-phone">Year</div>
         <div class="cbp_tmlabel">
@@ -109,7 +109,7 @@ author_profile: true
           <p>Time-lapse images of macrophage macropinocytosis. After macrophage-colony stimulating factor (MCSF), the cells induce membrane ruffles, some of which convert to macropinocytosis.</p>
         </div>
       </li>
-       <hr align="left" width="750px" color="#5F5F5F" size="3">
+          <hr align="left" width="750px" color="#E6E6E6" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-mail">Year</div>
         <div class="cbp_tmlabel">
@@ -118,7 +118,7 @@ author_profile: true
           <p>Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3, YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated with MCSF. The merged image (middle) shows that PIP3 is transiently generated during macropinocytosis (red color in the image).</p>
         </div>
       </li>
-       <hr align="left" width="750px" color="#5F5F5F" size="3">
+          <hr align="left" width="750px" color="#E6E6E6" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-screen">JCB 2015</div>
         <div class="cbp_tmlabel">
@@ -127,7 +127,7 @@ author_profile: true
           <p>Tubular lysosomes and macropinosomes were stained by TRDx (Bottom-Right) and LY (Bottom-Left), respectively. Merge image (Middle-LEFT) shows that tubular lysosomes (as black in the image) elongate the structure to fuse with macropinosomes (white).</p>
         </div>
       </li>
-       <hr align="left" width="750px" color="#5F5F5F" size="3">
+          <hr align="left" width="750px" color="#E6E6E6" size="3">
         <li>
         <div class="cbp_tmicon cbp_tmicon-phone">JCS 2018</div>
         <div class="cbp_tmlabel">
