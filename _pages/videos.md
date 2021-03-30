@@ -49,12 +49,12 @@ author_profile: true
       font-weight: bold;
       font-variant: normal;
       text-transform: none;
-      font-size: 1em;
+      font-size: 0.9em;
       line-height: 20px;
       -webkit-font-smoothing: antialiased;
       position: absolute;
       color: #000;
-      text-align: center;
+      text-align: left;
       left: 0;
       top: 0;
       margin: 0 0 0 -45px;
@@ -68,7 +68,7 @@ author_profile: true
       color: #fff;
       padding: 1em 1.5em;
       font-family: 'Arial';
-      font-size: 1.8em;
+      font-size: 1.3em;
       font-weight: 300;
       line-height: 1.4;
       position: relative;
