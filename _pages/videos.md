@@ -6,46 +6,133 @@ author_profile: true
 
 ---
 
-<div class="container">
-    <ul class="time-horizontal">
-        <li><b></b>First Live-Cell Imaging (Warren Harton Lewis, 1931)</li>
-        <li><b></b>COS7 Cell Infected by Shigella Flexneri(EMBO, 2002)</li>
-        <li><b></b>Macrophage Macropinocytosis</li>
-        <li><b></b>Comparison of Phage and Ratio Images</li>
-        <li><b></b>Live-Cell Imaging of "Squidlysis" (JCB 2015)</li>
-        <li><b></b>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH<br> and CFP after Stimulated by Growth Factor (JCS 2018)</li>
-    </ul>
-</div>
-
 <style>
-.time-horizontal {
-    list-style-type: none;
-    border-top: 1px solid #707070;
-    max-width: 800px;
-    padding: 0px;
-    margin: 0px;
-}
- 
-.time-horizontal li {
-    float: left;
-    position: relative;
-    text-align: center;
-    width: 25%;
-    padding-top: 10px;
-}
- 
-.time-horizontal li b:before {
-    content: '';
-    position: absolute;
-    top: -10px;
-    left: 47%;
-    width: 12px;
-    height: 12px;
-    border: 2px solid #4c4c4c;
-    border-radius: 8px;
-    background: #4c4c4c;
-}
-</style>
+    *, *:after, *:before {
+      box-sizing: border-box;
+    }
+    .main {
+      width: 90%;
+      max-width: 69em;
+      margin: 0 auto;
+      padding: 0 1.875em 3.125em 1.875em;
+    }
+    .cbp_tmtimeline {
+      margin: 30px 0 0 0;
+      padding: 0;
+      list-style: none;
+      position: relative;
+    }
+    .cbp_tmtimeline li .cbp_tmlabel p:before {
+      content: '';
+      position: absolute;
+      top: 50px;
+      bottom: 0;
+      width: 1px;
+      border: 1px dashed #ccc;
+      left: -7.5%;
+    }
+    .cbp_tmtimeline > li {
+      position: relative;
+    }
+    .cbp_tmtimeline > li .cbp_tmtime {
+      display: block;
+      width: 25%;
+      padding-right: 100px;
+      position: absolute;
+    }
+    .cbp_tmtimeline > li .cbp_tmicon {
+      width: 40px;
+      height: 40px;
+      font-family: 'ecoico';
+      speak: none;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      font-size: 1.4em;
+      line-height: 40px;
+      -webkit-font-smoothing: antialiased;
+      position: absolute;
+      color: #000;
+      text-align: center;
+      left: 20%;
+      top: 0;
+      margin: 0 0 0 -25px;
+    }
+    .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
+      background: #6cbfee;
+    }
+    .cbp_tmtimeline > li .cbp_tmlabel {
+      margin: 0 0 15px 25%;
+      background: #3594cb;
+      color: #fff;
+      padding: 2em;
+      font-size: 1.2em;
+      font-weight: 300;
+      line-height: 1.4;
+      position: relative;
+      border-radius: 5px;
+    }
+    .cbp_tmtimeline > li .cbp_tmlabel h2 {
+      margin-top: 0px;
+      padding: 0 0 10px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.4);
+    }
+  </style>
+  <div class="main">
+    <ul class="cbp_tmtimeline">
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-phone">D1</div>
+        <div class="cbp_tmlabel">
+          <h2>Ricebean black-eyed pea</h2>
+          <p>Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea sprouts wattle seed rutabaga okra yarrow cress avocado grape radish bush tomato ricebean black-eyed pea maize eggplant. Cabbage lentil cucumber chickpea sorrel gram garbanzo plantain lotus root bok choy squash cress potato summer purslane salsify fennel horseradish dulse. Winter purslane garbanzo artichoke broccoli lentil corn okra silver beet celery quandong. Plantain salad beetroot bunya nuts black-eyed pea collard greens radish water spinach gourd chicory prairie turnip avocado sierra leone bologi.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-screen">D2</div>
+        <div class="cbp_tmlabel">
+          <h2>Greens radish arugula</h2>
+          <p>Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-mail">D3</div>
+        <div class="cbp_tmlabel">
+          <h2>Sprout garlic kohlrabi</h2>
+          <p>Parsnip lotus root celery yarrow seakale tomato collard greens tigernut epazote ricebean melon tomatillo soybean chicory broccoli beet greens peanut salad. Lotus root burdock bell pepper chickweed shallot groundnut pea sprouts welsh onion wattle seed pea salsify turnip scallion peanut arugula bamboo shoot onion swiss chard. Avocado tomato peanut soko amaranth grape fennel chickweed mung bean soybean endive squash beet greens carrot chicory green bean. Tigernut dandelion sea lettuce garlic daikon courgette celery maize parsley komatsuna black-eyed pea bell pepper aubergine cauliflower zucchini. Quandong pea chickweed tomatillo quandong cauliflower spinach water spinach.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-phone">D4</div>
+        <div class="cbp_tmlabel">
+          <h2>Watercress ricebean</h2>
+          <p>Peanut gourd nori welsh onion rock melon mustard jícama. Desert raisin amaranth kombu aubergine kale seakale brussels sprout pea. Black-eyed pea celtuce bamboo shoot salad kohlrabi leek squash prairie turnip catsear rock melon chard taro broccoli turnip greens. Fennel quandong potato watercress ricebean swiss chard garbanzo. Endive daikon brussels sprout lotus root silver beet epazote melon shallot.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-earth">D5</div>
+        <div class="cbp_tmlabel">
+          <h2>Courgette daikon</h2>
+          <p>Parsley amaranth tigernut silver beet maize fennel spinach. Ricebean black-eyed pea maize scallion green bean spinach cabbage jícama bell pepper carrot onion corn plantain garbanzo. Sierra leone bologi komatsuna celery peanut swiss chard silver beet squash dandelion maize chicory burdock tatsoi dulse radish wakame beetroot.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-screen">D6</div>
+        <div class="cbp_tmlabel">
+          <h2>Greens radish arugula</h2>
+          <p>Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi.</p>
+        </div>
+      </li>
+      <li>
+        <div class="cbp_tmicon cbp_tmicon-phone">D7</div>
+        <div class="cbp_tmlabel">
+          <h2>Sprout garlic kohlrabi</h2>
+          <p>Parsnip lotus root celery yarrow seakale tomato collard greens tigernut epazote ricebean melon tomatillo soybean chicory broccoli beet greens peanut salad. Lotus root burdock bell pepper chickweed shallot groundnut pea sprouts welsh onion wattle seed pea salsify turnip scallion peanut arugula bamboo shoot onion swiss chard. Avocado tomato peanut soko amaranth grape fennel chickweed mung bean soybean endive squash beet greens carrot chicory green bean. Tigernut dandelion sea lettuce garlic daikon courgette celery maize parsley komatsuna black-eyed pea bell pepper aubergine cauliflower zucchini. Quandong pea chickweed tomatillo quandong cauliflower spinach water spinach.</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
