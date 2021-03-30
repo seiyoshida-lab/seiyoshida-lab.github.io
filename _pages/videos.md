@@ -7,9 +7,10 @@ author_profile: true
 ---
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
-<p style="font-family:arial;font-weight:bold;font-size:20px;">Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor (JCS 2018)</p>
+<p style="font-family:arial;font-weight:bold;font-size:20px;">Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</p>
 <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
-Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br>
+Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
+YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br>
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
@@ -35,14 +36,14 @@ factor (MCSF), the cells induce membrane ruffles, some of which convert to macro
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
-<p style="font-family:arial;font-weight:bold;font-size:20px;">A COS7 Cell Infected by Shigella Flexneri</p>
+<p style="font-family:arial;font-weight:bold;font-size:20px;">A COS7 Cell Infected by Shigella Flexneri (EMBO, 2002)</p>
 <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
 Time-lapse images of a COS7 cell infected by Shigella flexneri (Yohisda et al., Science 2006). <br>
 Shigella can move in the infected cells by modulating the host cytoskeleton mechanism.<br>
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
-<p style="font-family:arial;font-weight:bold;font-size:20px;">The world's First Live-Cell Imaging</p>
+<p style="font-family:arial;font-weight:bold;font-size:20px;">The world's First Live-Cell Imaging (Warren Harton Lewis, 1931)</p>
 <video src="../videos/video1.mp4" width="650px" autoplay=true loop=true controls></video>
 The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis<br>
 in 1931. An isolated mouse macrophage induces macropinocytosis.<br>
