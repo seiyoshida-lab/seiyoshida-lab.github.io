@@ -11,8 +11,7 @@ author_profile: true
       box-sizing: border-box;
     }
     .main {
-      width: 90%;
-      max-width: 69em;
+      width: 80%;
       margin: 0 auto;
       padding: 0 1.875em 3.125em 1.875em;
     }
@@ -29,7 +28,7 @@ author_profile: true
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
-      left: -1%;
+      left: -3%;
     }
     .cbp_tmtimeline > li {
       position: relative;
