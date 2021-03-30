@@ -10,11 +10,6 @@ author_profile: true
     *, *:after, *:before {
       box-sizing: border-box;
     }
-    .main {
-      width: 120%;
-      margin: 0 auto;
-      padding: 0 1.875em 3.125em 1.875em;
-    }
     .cbp_tmtimeline {
       margin: 3px 0 0 0;
       padding: 0 auto;
