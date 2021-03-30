@@ -30,14 +30,16 @@ author_profile: true
 <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
 Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
 YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like"<br>
-structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br>
+structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio<br>
+(YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br>
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
 <p style="font-family:arial;font-weight:bold;font-size:20px;">Live-Cell Imaging of "Squidlysis" (JCB 2015)</p>
 <video src="../videos/video3.mp4" width="650px" autoplay=true loop=true controls></video>
 Tubular lysosomes and macropinosomes were stained by TRDx (Bottom-Right) and LY<br>
-(Bottom-Left), respectively. Merge image (Middle-LEFT) shows that tubular lysosomes (as black in the image) elongate the structure to fuse with macropinosomes (white).<br>
+(Bottom-Left), respectively. Merge image (Middle-LEFT) shows that tubular lysosomes<br>
+(as black in the image) elongate the structure to fuse with macropinosomes (white).<br>
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
