@@ -13,7 +13,7 @@ author_profile: true
     }
    .main {
       width: 90%;
-      margin: 0 -30px 0 -30px;
+      margin: 0 -30px 0 0;
       padding: 0 0 0 0;
     }
     .cbp_tmtimeline {
@@ -50,12 +50,12 @@ author_profile: true
       font-variant: normal;
       text-transform: none;
       font-size: 1em;
-      line-height: 30px;
+      line-height: 25px;
       -webkit-font-smoothing: antialiased;
       position: absolute;
       color: #000;
       text-align: center;
-      left:-2%;
+      left:5%;
       top: 0;
       margin: 0 0 0 -30px;
     }
