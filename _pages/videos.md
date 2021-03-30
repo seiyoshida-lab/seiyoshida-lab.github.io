@@ -49,7 +49,7 @@ author_profile: true
       font-weight: bold;
       font-variant: normal;
       text-transform: none;
-      font-size: 0.9em;
+      font-size: 0.7em;
       line-height: 20px;
       -webkit-font-smoothing: antialiased;
       position: absolute;
