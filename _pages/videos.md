@@ -29,7 +29,7 @@ author_profile: true
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
-      left: -4%;
+      left: -3.5%;
     }
     .cbp_tmtimeline > li {
       position: relative;
