@@ -14,6 +14,7 @@ author_profile: true
     </ul>
 </div>
 /*横向时间轴*/
+<style>
 .time-horizontal {
     list-style-type: none;
     border-top: 1px solid #707070;
@@ -41,6 +42,7 @@ author_profile: true
     border-radius: 8px;
     background: #4c4c4c;
 }
+</style>
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
