@@ -5,7 +5,7 @@ permalink: /videos/
 author_profile: true
 
 ---
-<hr align="left" width="750px" color="#5F5F5F" size="5">
+<hr align="left" width="770px" color="#5F5F5F" size="5">
 
 <style>
     *, *:after, *:before {
@@ -140,4 +140,4 @@ author_profile: true
     </ul>
   </div>
 
-<hr align="left" width="750px" color="#5F5F5F" size="5">
+<hr align="left" width="760px" color="#5F5F5F" size="5">
