@@ -41,7 +41,7 @@ author_profile: true
       position: absolute;
     }
     .cbp_tmtimeline > li .cbp_tmicon {
-      width: 60px;
+      width: 40px;
       height: 40px;
       font-family: 'ecoico';
       speak: none;
@@ -57,7 +57,7 @@ author_profile: true
       text-align: center;
       left: 0;
       top: 0;
-      margin: 0 0 0 -15px;
+      margin: 0 0 0 -30px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
       background: #6AA4CF;
@@ -76,7 +76,7 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
       margin-top: 0px;
-      padding: 0 0 5px 0;
+      padding: 0 0 0 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
     }
   </style>
