@@ -36,8 +36,8 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmtime {
       display: block;
-      width: -30%;
-      padding-right: 10px;
+      width: 25%;
+      padding-right: 100px;
       position: absolute;
     }
     .cbp_tmtimeline > li .cbp_tmicon {
@@ -55,7 +55,7 @@ author_profile: true
       position: absolute;
       color: #000;
       text-align: center;
-      left:-1%;
+      left:-3%;
       top: 0;
       margin: 0 0 0 -25px;
     }
@@ -85,9 +85,9 @@ author_profile: true
       <li>
         <div class="cbp_tmicon cbp_tmicon-phone">D1</div>
         <div class="cbp_tmlabel">
-          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</h2>
+          <h2>ive-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</h2>
            <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
-          <p>ive-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
+          <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
 YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like"<br>
 structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio<br>
 (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br></p>
