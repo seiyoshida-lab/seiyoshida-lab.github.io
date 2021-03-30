@@ -13,7 +13,7 @@ author_profile: true
     }
    .main {
       width: 85%;
-      margin: 0 0 0 -10px;
+      margin: 0 0 0 -5px;
       padding: 0 0 0 0;
     }
     .cbp_tmtimeline {
@@ -57,7 +57,7 @@ author_profile: true
       text-align: center;
       left: 0;
       top: 0;
-      margin: 0 0 0 -30px;
+      margin: 0 0 0 -35px;
     }
     .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
       background: #6AA4CF;
