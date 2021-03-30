@@ -94,7 +94,7 @@ author_profile: true
       </li>
         <hr align="left" width="750px" color="#5F5F5F" size="3">
        <li>
-        <div class="cbp_tmicon cbp_tmicon-earth">Science 2006</div>
+        <div class="cbp_tmicon cbp_tmicon-earth">Science<br> 2006</div>
         <div class="cbp_tmlabel">
            <h2>A COS7 Cell Infected by Shigella Flexneri</h2>
           <video src="../videos/video5.mp4" width="650px" autoplay=true loop=true controls></video>
