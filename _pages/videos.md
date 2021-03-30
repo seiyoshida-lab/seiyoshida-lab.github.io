@@ -41,7 +41,7 @@ author_profile: true
       position: absolute;
     }
     .cbp_tmtimeline > li .cbp_tmicon {
-      width: 40px;
+      width: 80px;
       height: 40px;
       font-family: 'Arial';
       speak: none;
