@@ -7,16 +7,20 @@ author_profile: true
 ---
 <hr align="left" width="750px" color="#5F5F5F" size="5">
 
-<video src="../videos/video2.mp4" width="650px" autoplay=true loop=true controls></video>
-
-<hr align="left" width="750px" color="#5F5F5F" size="5">
-
-<video src="../videos/video3.mp4" width="650px" autoplay=true loop=true controls></video>
-
-<hr align="left" width="750px" color="#5F5F5F" size="5">
-
-<p style="font-family:arial;font-weight:bold;font-size:20px;">Comparison of Phage and Ratio Images.</p>
+<p style="font-family:arial;font-weight:bold;font-size:20px;">Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated by Growth Factor (JCS 2018)</p>
 <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
+Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like" structures called Circular Dorsal Ruffles (CDRs). Comparison of phase-contrast (left) and ratio (YFP–BtkPH/CFP) (right) images shows sustained PIP3 signal inside CDRs.<br>
+
+<hr align="left" width="750px" color="#5F5F5F" size="5">
+
+<p style="font-family:arial;font-weight:bold;font-size:20px;">Live-Cell Imaging of "Squidlysis" (JCB 2015)</p>
+<video src="../videos/video3.mp4" width="650px" autoplay=true loop=true controls></video>
+Tubular lysosomes and macropinosomes were stained by TRDx (Bottom-Right) and LY (Bottom-Left), respectively. Merge image (Middle-LEFT) shows that tubular lysosomes (as black in the image) elongate the structure to fuse with macropinosomes (white).<br>
+
+<hr align="left" width="750px" color="#5F5F5F" size="5">
+
+<p style="font-family:arial;font-weight:bold;font-size:20px;">Comparison of Phage and Ratio Images</p>
+<video src="../videos/video2.mp4" width="650px" autoplay=true loop=true controls></video>
 Comparison of phage (left) and ratio (right) images. As a probe protein to identify PIP3,<br>
 YFP-BtkPH (and CFP as the reference) is expressed in macrophages. The cells were stimulated<br> 
 with MCSF. The merged image (middle) shows that PIP3 is transiently generated during<br>
