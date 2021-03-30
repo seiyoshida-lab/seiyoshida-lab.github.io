@@ -68,13 +68,14 @@ author_profile: true
       color: #fff;
       padding: 1em 1.5em;
       font-family: 'Arial';
-      font-size: 1.3em;
+      font-size: 1em;
       font-weight: 300;
       line-height: 1.4;
       position: relative;
       border-radius: 5px;
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
+      font-size: 1.3em;
       margin-top: 0px;
       padding: 0 0 0 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
