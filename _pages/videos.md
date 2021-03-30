@@ -26,9 +26,10 @@ author_profile: true
 
 ---
 
+<B>The world's first Live-Cell imaging</B><br>
 <video src="../videos/video1.mp4" width="700px" controls></video>
-<B>The world's first Live-Cell imaging (time-lapse cinephotography) by Dr. Warren Harton Lewis in 1931. </B>
-An isolated mouse macophage induces macropinocytosis.
+The world's first Live-Cell imaging (time-lapse cine photography) by Dr. Warren Harton Lewis in 1931. <br>
+An isolated mouse macrophage induces macropinocytosis.
 
 ---
 
