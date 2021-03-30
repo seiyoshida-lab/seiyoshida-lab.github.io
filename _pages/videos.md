@@ -25,7 +25,7 @@ author_profile: true
     .cbp_tmtimeline li .cbp_tmlabel p:before {
       content: '';
       position: absolute;
-      top: 50px;
+      top: 45px;
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
@@ -66,9 +66,9 @@ author_profile: true
       margin: 0 0 0 0;
       background: #8EB3CF;
       color: #fff;
-      padding: 1em 2em;
+      padding: 1em 1.5em;
       font-family: 'Arial';
-      font-size: 1em;
+      font-size: 2em;
       font-weight: 300;
       line-height: 1.4;
       position: relative;
@@ -76,7 +76,7 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmlabel h2 {
       font-family: 'Arial';
-      font-size: 0.8em;
+      font-size: 1em;
       margin-top: 0px;
       padding: 0 0 0 0;
       border-bottom: 1px solid rgba(255,255,255,0.4);
