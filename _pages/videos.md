@@ -85,7 +85,7 @@ author_profile: true
       <li>
         <div class="cbp_tmicon cbp_tmicon-phone">D1</div>
         <div class="cbp_tmlabel">
-          <h2>Live-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</h2>
+          <h2>ive-Cell Imaging of MEFs Expressing YFP–Btk-PH and CFP after Stimulated<br> by Growth Factor (JCS 2018)</h2>
            <video src="../videos/video7.mp4" width="650px" autoplay=true loop=true controls></video>
           <p>Live-cell imaging of MEFs expressing YFP–Btk-PH (to detect PIP3) and CFP (as the reference of<br>
 YFP signal) after stimulation by growth factor (JCS 2018). Growth factor induces "crater-like"<br>
