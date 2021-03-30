@@ -5,11 +5,11 @@ permalink: /videos/
 author_profile: true
 
 ---
----
+<hr align="left" width="750px" color="#5F5F5F" size="5">
 
 <video src="../videos/video3.mp4" width="700px" autoplay=true loop=true controls></video>
 
----
+<hr align="left" width="750px" color="#5F5F5F" size="5">
 
 <video src="../videos/video2.mp4" width="700px" autoplay=true loop=true controls></video>
 
