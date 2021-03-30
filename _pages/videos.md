@@ -63,8 +63,8 @@ author_profile: true
     }
     .cbp_tmtimeline > li .cbp_tmlabel {
       margin: 0 0 0 0;
-      background: #8EB3CF;
-      color: #fff;
+      background: #FFFFFF;
+      color: #000;
       padding: 1em 1.5em;
       font-family: 'Arial';
       font-size: 1em;
