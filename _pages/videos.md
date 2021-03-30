@@ -29,7 +29,7 @@ author_profile: true
       bottom: 0;
       width: 1px;
       border: 1px dashed #ccc;
-      left: -35%;
+      left: -5%;
     }
     .cbp_tmtimeline > li {
       position: relative;
@@ -63,7 +63,7 @@ author_profile: true
       background: #6cbfee;
     }
     .cbp_tmtimeline > li .cbp_tmlabel {
-      margin: 0 0 15px 10%;
+      margin: 0 0 15px 5%;
       background: #3594cb;
       color: #fff;
       padding: 2em;
