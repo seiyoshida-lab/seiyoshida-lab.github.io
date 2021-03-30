@@ -5,23 +5,31 @@ permalink: /videos/
 author_profile: true
 
 ---
-<div class="container">    
-<p>原文地址:http://www.cnblogs.com/xiaofeixiang/</p>       
-  <ul class="time-horizontal">            
-    <li><b></b>成立</li>            
-    <li><b></b>合作</li>            
-    <li><b></b>发展</li>           
-    <li><b></b>共赢</li>        
-  </ul>    
-</div>    
-<div class="container">        
-  <ul class="time-vertical">            
-    <li><b></b><span>1</span>keso</li>            
-    <li><b></b><span>2</span>FlyElephant</li>            
-    <li><b></b><span>3</span>博客园</li>            
-    <li><b></b><span>4</span>创业</li>        
-  </ul>    
-</div>
+<div class="time_line_box">
+            <div class="time_line" style="width:100%;">
+                <ol>
+                    <li>
+                        <a class="order_item" style="left:10%;">预约</a>
+                    </li>
+                    <li>
+                        <a class="order_item selected" style="left:25%;">行家确认</a>
+                    </li>
+                    <li>
+                        <a class="order_item" style="left:45%;">付款</a>
+                    </li>
+                    <li>
+                        <a class="order_item" style="left:65%;">见面</a>
+                    </li>
+                    <li>
+                        <a class="order_item" style="left:85%;">评价</a>
+                    </li>
+                </ol>
+                <span class="filling_line" style="transform: scaleX(0.28);"></span>
+            </div>
+        </div>
+        <div class="time_tip">
+                付款剩余时间：23：58
+        </div>>
 
 
 <hr align="left" width="750px" color="#5F5F5F" size="5">
