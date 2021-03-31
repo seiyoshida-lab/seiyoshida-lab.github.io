@@ -28,7 +28,7 @@ p.main {text-align:justify; width="550px";}
 
 <video src="../videos/video2.mp4"  width="600px" controls></video>
 
-**[Contact us freely](https://sei-lab-nankai.github.io/joinus/)  if you are interested in our projects!**
+**[Contact us freely](https://seiyoshida-lab.github.io/joinus/)  if you are interested in our projects!**
 
 Related Links
 ------
