@@ -40,6 +40,8 @@ Related Links
 
 ·[Growth factor signal transduction through dorsal ruffles. JCS(2018)](https://jcs.biologists.org/content/131/22/e2201).
 
+·[On the cover: Endoplasmic reticulum–associated degradation in podocytes](https://www.jci.org/131/7).
+
 Lab Party Time
 ------
 ![party](/images/party.png "party")
