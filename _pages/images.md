@@ -6,6 +6,10 @@ author_profile: true
 
 ---
 
+<image src="../images/JCIcover.png" width="600px" controls></image>
+
+---
+
 <image src="../images/colorkidney.png" width="600px" controls></image>
 
 ---
