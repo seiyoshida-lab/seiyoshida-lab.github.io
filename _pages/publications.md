@@ -7,6 +7,13 @@ author_profile:
 ---
 
 <ul style="list-style-type: decimal;">
+ 
+ <li> <B>Yoshida S*</B>, Wei X, Zhang G, L.O’Connor C, Torres M, Zhou Z, Lin L, Menon R, Xu X, <B>Zheng W</B>, Xiong Y, Otto E, Tang C.A, <B>Hua R</B>, Verma R, Mori H, Zhang Y, Hu C.A, Liu M, Garg P, B. Hodgin J, Sun S, Bitzer M, Qi L*. (2021). <br>
+ Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function. <br>
+ <i>The Journal of Clinical Investigation. </i>131 (7):e143988<br>
+  <a href="../files/2021 JCI.pdf">[PDF Download]</a><br>
+  <small> *Co-correponding</small><br><br></li>
+
 <li>Swanson JA* and <B>Yoshida S*</B>. (2019). <br> 
  Macropinosomes as units of signal transduction. <br>
  <i>Philosophical Transactions of the Royal Society B.</i> 374: 20180157 (review)<br>
