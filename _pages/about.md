@@ -28,8 +28,6 @@ p.main {text-align:justify; width="550px";}
 
 <video src="../videos/video2.mp4"  width="600px" autoplay=true loop=true controls></video>
 
-<br><br>
-
 **[Contact us freely](https://seiyoshida-lab.github.io/joinus/)  if you are interested in our projects!**
 
 Related Links
