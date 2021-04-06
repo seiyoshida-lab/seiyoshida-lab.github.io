@@ -44,9 +44,7 @@ author_profile: true
   <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p> 
   <p>This paper was highlighted as the cover article. For more information, please see the <a href="https://seiyoshida-lab.github.io/publications/" title="Publications" target="_blank">Publications</a>.</p>
 </div>
-  
-  <br></br>
-  
+  <br>
   <div class="li"><b>2021/Mar/22th &nbsp;&nbsp; Welcome Here</b></div>
 <div class="content">
   <p>Welcome to Dr. Sei Yoshida's Lab Website!.</p>
