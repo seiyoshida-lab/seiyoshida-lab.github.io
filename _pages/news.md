@@ -24,13 +24,13 @@ author_profile: true
 
 .content {
   background-color: #f1f1f1;
-  padding: 10px 18px;
+  padding: 1px 18px;
   width: 80%;
   border: none;
   box-sizing: border-box;
   text-align: left;
   outline: none;
-  font-size: 18px;
+  font-size: 16px;
   border-radius: 0 0 25px 25px;
 }
 
