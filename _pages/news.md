@@ -55,15 +55,11 @@ author_profile: true
   <p>This paper was highlighted as the cover article. For more information, please see the Publication page. </p>
 </div>
 
----
-
 <button class="collapsible">2021/Mar/22 New Website!</button>
 <div class="content">
   <p>Our first paper was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan. </p>
   <p>Our website is: https://seiyoshida-lab.github.io/.</p>
 </div>
-
----
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
