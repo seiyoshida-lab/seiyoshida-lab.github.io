@@ -45,7 +45,9 @@ author_profile: true
   <p>This paper was highlighted as the cover article. For more information, please see the <a href="https://seiyoshida-lab.github.io/publications/" title="Publications" target="_blank">Publications</a>.</p>
 </div>
   
-  <div class="li"><b>2021/Mar/22th &nbsp;&nbsp; New Website</b></div>
+  <br></br>
+  
+  <div class="li"><b>2021/Mar/22th &nbsp;&nbsp; Welcome Here</b></div>
 <div class="content">
   <p>Welcome to Dr. Sei Yoshida's Lab Website!.</p>
 </div>
