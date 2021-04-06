@@ -30,7 +30,7 @@ author_profile: true
   box-sizing: border-box;
   text-align: left;
   outline: none;
-  font-size: 16px;
+  font-size: 17px;
   border-radius: 0 0 25px 25px;
 }
 
