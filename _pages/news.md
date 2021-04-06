@@ -12,19 +12,19 @@ author_profile: true
 .li {
   background-color: #555;
   color: white;
-  padding: 2px 18px;
-  width: 80%;
+  padding: 1px 18px;
+  width: 85%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 22px;
+  font-size: 24px;
   border-radius: 25px 25px 0 0 ;
 }
 
 .content {
   background-color: #f1f1f1;
   padding: 10px 18px;
-  width: 80%;
+  width: 85%;
   border: none;
   text-align: left;
   outline: none;
