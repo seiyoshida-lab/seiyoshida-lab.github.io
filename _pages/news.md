@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Images"
+title: "News"
 permalink: /images/
 author_profile: true
 
