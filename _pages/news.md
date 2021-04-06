@@ -12,8 +12,8 @@ author_profile: true
     <style>
         .a-text { font-size: 20px;color: #b30000;cursor: pointer;}
         .a-text:hover { color: red;}
-        .p1 {font-size: 16px;color: #0a001f;width: 500px;  }
-        .p2 { font-size: 16px; color: #0a001f; width: 500px; display: none;  }
+        .p1 {font-size: 16px;color: #0a001f; }
+        .p2 { font-size: 16px; color: #0a001f;display: none;  }
     </style>
 </head>
 <body>
@@ -42,8 +42,8 @@ author_profile: true
      */
     function text_foled(clas, num) {
         var num = num;
-        var a = $("<a></a>").on('click', showText).addClass('a-text').text("【展开】");
-        var b = $("<a></a>").on('click', showText).addClass('a-text').text("【折叠】");
+        var a = $("<a></a>").on('click', showText).addClass('a-text').text("[collapse]");
+        var b = $("<a></a>").on('click', showText).addClass('a-text').text("[fold]");
         var p = $("<p></p>").addClass('p2');
         var str = $(clas).text();
         $(clas).after(p);
@@ -57,4 +57,3 @@ author_profile: true
         }
     }
 </script>
-</html>
