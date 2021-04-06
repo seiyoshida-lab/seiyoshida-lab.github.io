@@ -50,11 +50,27 @@ author_profile: true
 
 <h2>Animated Collapsibles</h2>
 
+---
+
 <p>A Collapsible:</p>
-<button class="collapsible">Open Collapsible</button>
+<button class="collapsible">2021/Apr/1 New paper!</button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Our first paper was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan. </p>
+  <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p>
+  <p>This paper was highlighted as the cover article. For more information, please see the Publication page. </p>
 </div>
+
+---
+
+<p>A Collapsible:</p>
+<button class="collapsible">2021/Apr/1 New paper!</button>
+<div class="content">
+  <p>Our first paper was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan. </p>
+  <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p>
+  <p>This paper was highlighted as the cover article. For more information, please see the Publication page. </p>
+</div>
+
+---
 
 <p>Collapsible Set:</p>
 <button class="collapsible">Open Section 1</button>
