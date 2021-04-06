@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sei Yoshida Lab"
 title_separator          : "-"
-name                     : &name "Sei Yoshida"
+name                     : &name "KK & Potato Cake"
 description              : &description "Cell Biology research scientist at Nankai University"
 url                      : https://seiyoshida-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
