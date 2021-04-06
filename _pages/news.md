@@ -11,10 +11,9 @@ author_profile: true
 <style>
 .li {
   background-color: #555;
-  width: 1000px;
   color: white;
-  padding: 18px;
-  width: 100%;
+  padding: 10px 18px;
+  width: 80%;
   border: none;
   text-align: left;
   outline: none;
@@ -24,8 +23,8 @@ author_profile: true
 
 .content {
   background-color: #f1f1f1;
-  padding:18px;
-  width: 100%;
+  padding: 10px 18px;
+  width: 80%;
   border: none;
   text-align: left;
   outline: none;
@@ -39,8 +38,8 @@ author_profile: true
 <body>
 <div class="li"><p><b>2021/Apr/1 New Paper</b></p></div>
 <div class="content">
-  <p>Our first paper <i>Endoplasmic reticulum–associated degradation is required for nephrin maturation and kidney glomerular filtration function</i> was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan. Dr. Yoshida is the 1st co-first author and a co-corresponding author.</p> 
-  <p>Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p> 
+  <p>Our first paper <b><i>Endoplasmic reticulum–associated degradation is required for nephrin maturation and kidney glomerular filtration function</i></b> was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan.</p> 
+  <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p> 
   <p>This paper was highlighted as the cover article. For more information, please see the Publications page.</p>
 </div>
 
