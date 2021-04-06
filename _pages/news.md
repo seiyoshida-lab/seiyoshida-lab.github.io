@@ -12,12 +12,12 @@ author_profile: true
 .li {
   background-color: #555;
   color: white;
-  padding: 3px 18px;
+  padding: 5px 18px;
   width: 80%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
+  font-size: 22px;
   border-radius: 25px 25px 0 0 ;
 }
 
