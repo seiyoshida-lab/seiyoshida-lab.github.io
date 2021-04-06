@@ -7,47 +7,83 @@ author_profile: true
 ---
 
 <head>
-    <meta charset="UTF-8">
-    <title>文本折叠测试</title>
-    <style>
-        .a-text { font-size: 20px;color: #b30000;cursor: pointer;}
-        .a-text:hover { color: red;}
-        .p1 {font-size: 16px;color: #0a001f; }
-        .p2 { font-size: 16px; color: #0a001f;display: none;  }
-    </style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
 </head>
 <body>
-<p class="p1">
-    <p>2021/Apr/1</p>
-    Our first paper was published on The Journal of Clinical Investigation as a collaboration with The University of Michigan. Dr. Yoshida is the 1st co-first author and a co-corresponding autor. Two undergraduates, Wenyue Zheng and Rui Hua contributes thie as co-authors.<br>
-    This paper was highlited as the cover article.<br>
-</p>
-</body>
-<script src="https://cdn.bootcss.com/jquery/2.1.2/jquery.min.js"></script>
-<script type="text/javascript">
-    $(function () {
-        text_foled('.p1', 100);
-    });
 
-    /**
-     * jQuery 文本折叠展开特效
-     * @param clas：存放文本的容器
-     * @param num：要显示的字数
-     */
-   function text_foled(clas, num) {
-        var num = num;
-        var a = $("<a></a>").on('click', showText).addClass('a-text').text("[collapse]");
-        var b = $("<a></a>").on('click', showText).addClass('a-text').text("[fold]");
-        var p = $("<p></p>").addClass('p2');
-        var str = $(clas).text();
-        $(clas).after(p);
-        if (str.length > num) {
-            var text = str.substring(0, num) + "...";
-            $(clas).html(text).append(a);
-        }
-        $('.p2').html(str).append(b);
-        function showText() {
-            $(this).parent().hide().siblings().show();
-        }
-    }
+<h2>Animated Collapsibles</h2>
+
+<p>A Collapsible:</p>
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<p>Collapsible Set:</p>
+<button class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
 </script>
+</body>
