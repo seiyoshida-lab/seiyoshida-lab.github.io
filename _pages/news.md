@@ -18,7 +18,7 @@ author_profile: true
 </head>
 <body>
 <p class="p1">
-    <b>2021/Apr/1</b><br>
+    <p>2021/Apr/1</p>
     Our first paper was published on The Journal of Clinical Investigation as a collaboration with The University of Michigan. Dr. Yoshida is the 1st co-first author and a co-corresponding autor. Two undergraduates, Wenyue Zheng and Rui Hua contributes thie as co-authors.<br>
     This paper was highlited as the cover article.<br>
 </p>
