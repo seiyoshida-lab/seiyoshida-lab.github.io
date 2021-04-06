@@ -15,6 +15,7 @@ author_profile: true
   padding: 1px 18px;
   width: 85%;
   border: none;
+  box-sizing: border-box;
   text-align: left;
   outline: none;
   font-size: 24px;
@@ -26,6 +27,7 @@ author_profile: true
   padding: 10px 18px;
   width: 85%;
   border: none;
+  box-sizing: border-box;
   text-align: left;
   outline: none;
   font-size: 18px;
