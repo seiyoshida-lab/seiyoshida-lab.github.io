@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-<!doctype html>
-<html lang="zh">
 <head>
     <meta charset="UTF-8">
     <title>文本折叠测试</title>
