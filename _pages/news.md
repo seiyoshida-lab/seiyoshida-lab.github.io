@@ -12,7 +12,7 @@ author_profile: true
 .li {
   background-color: #555;
   color: white;
-  padding: 1px 18px;
+  padding: 8px 18px;
   width: 80%;
   border: none;
   box-sizing: border-box;
