@@ -54,7 +54,7 @@ author_profile: true
   <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p>
   <p>This paper was highlighted as the cover article. For more information, please see the Publication page. </p>
 </div>
-
+<p></p>
 <button class="collapsible">2021/Mar/22 New Website!</button>
 <div class="content">
   <p>Our first paper was published in The Journal of Clinical Investigation as a collaboration with The University of Michigan. </p>
