@@ -40,7 +40,7 @@ author_profile: true
 <body>
 <div class="li"><b>2021/Apr/1st &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
-  <p>Our first paper <b>Endoplasmic reticulum–associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> was published in <i>The Journal of Clinical Investigation</i> as a collaboration with The University of Michigan.</p> 
+  <p>Our first paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> was published in <i>The Journal of Clinical Investigation</i> as a collaboration with The University of Michigan.</p> 
   <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p> 
   <p>This paper was highlighted as the cover article. For more information, please see the <a href="https://seiyoshida-lab.github.io/publications/" title="Publications" target="_blank">Publications</a>.</p>
 </div>
