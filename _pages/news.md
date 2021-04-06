@@ -12,7 +12,7 @@ author_profile: true
 .li {
   background-color: #555;
   color: white;
-  padding: 0 18px;
+  padding: 3px 18px;
   width: 80%;
   border: none;
   text-align: left;
