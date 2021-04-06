@@ -47,7 +47,7 @@ author_profile: true
   <br>
   <div class="li"><b>2021/Mar/22th &nbsp;&nbsp; Welcome Here</b></div>
 <div class="content">
-  <p>Welcome to Dr. Sei Yoshida's Lab Website!.</p>
+  <p>Welcome to Dr. Sei Yoshida's Lab Website!</p>
 </div>
 </body>
 </html>
