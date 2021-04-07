@@ -19,7 +19,7 @@ author_profile: true
             <B>Sei Yoshida</B><br>
             <a href="" title="mail">seiyoshi"at"nankai.edu.cn</a><br>
             <a href="https://www.researchgate.net/profile/Sei_Yoshida" title="Research Gate Page" target="_blank">Research Gate</a><br>
-            I received my PhD from the University of Tokyo, Japan, in 2002, then moved to the University of Michigan, USA in 2006. After 14-year research experience in the US, I have started my own lab in Nankai University, Tianjin, China in 2020.<br>
+            I received my Ph.D. from the University of Tokyo, Japan, in 2002, then moved to the University of Michigan, the USA in 2006. After 14-year research experience in the US, I have started my lab at Nankai University, Tianjin, China in 2020.<br>
         </td>
     </tr>
     <tr align="left">
@@ -34,7 +34,7 @@ author_profile: true
         <td style="font-size:18px" width="200">
             <B>Lian Li</B><br>
             <a href="">lilian523"at"nankai.edu.cn</a><br>
-            I received my Ph.D from Nankai University, in 2013, then moved to the General Hospital of Tianjin Medical University as a Research Associate. During 2016 to 2019, I worked as a Postdoc Fellow in University of Pittsburgh Medical Center (UPMC) and The Ohio State University Wexner Medical Center. From 2020, I have started my studies as an associate professor in Nankai University. Now I have taken charge of two NSFC grants as PI and published SCI papers on JEM and other journals.<br>
+            I received my Ph.D. from Nankai University, in 2013, then moved to the General Hospital of Tianjin Medical University as a Research Associate. From 2016 to 2019, I worked as a Postdoc Fellow at the University of Pittsburgh Medical Center (UPMC) and The Ohio State University Wexner Medical Center. From 2020, I have started my studies as an associate professor at Nankai University. Now I have taken charge of two NSFC grants as PI and published SCI papers on JEM and other journals.<br>
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ author_profile: true
         <td style="font-size:18px" width="200">
             <B>Hua Qin</B><br>
             <a href="">qinhua"at"nankai.edu.cn</a><br>
-            Associate Professor in Nankai University. I got my Ph.D. from Tianjin Medical University and then did postdoctoral research in Chinese PLA General Hospital (301 Hospital). I have long been engaged in the scientific research of stem cells, tissue repair and regeneration, meanwhile, I focus on the usage of small molecules to control the cell fate of somatic cells and investigate their roles in cell reprogramming, transdifferentiation, and in vivo tissue regeneration. As PI, I have undertaken one NSFC grant and other three grants and published SCI papers (in Science Advances, Protein&Cell and other journals).<br>
+            Associate Professor in Nankai University. I got my Ph.D. from Tianjin Medical University and then did postdoctoral research in Chinese PLA General Hospital (301 Hospital). I have long been engaged in the scientific research of stem cells, tissue repair, and regeneration, meanwhile, I focus on the usage of small molecules to control the cell fate of somatic cells and investigate their roles in cell reprogramming, transdifferentiation, and in vivo tissue regeneration. As PI, I have undertaken one NSFC grant and other three grants and published SCI papers (in Science Advances, Protein&Cell, and other journals).<br>
         </td>
     </tr>
      <tr align="left">
