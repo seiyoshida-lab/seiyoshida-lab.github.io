@@ -15,8 +15,8 @@ p.main {text-align:justify; }
 </head>
 <body>
 <p class="main">
-  Our lab has revealed the molecular mechanism of macropniocytosis and the physiological relevance in the past 5 years (see our publications). While continuing the cell biology research as our main direction, we are trying to apply our findings for other fields, such as immunology, cancer biology, and nephrology. <br/>
-    <br/>Macropinocytosis is a large-scale endocytosis, by which cells can ingest or “drink” extracellular nutrients efficiently. We have shown that growth factor stimulation induces macropinocytosis and revealed the molecular mechanism (JCS 2009, Frontiers 2015). Growth factor receptor signaling and the overall metabolic status of the cell are coordinated in the cytoplasm by the mechanistic target-of-rapamycin complex-1 (mTORC1), which positively regulates protein synthesis and negatively regulates molecular salvage pathways such as autophagy.  <br/>
+  Our lab has revealed the molecular mechanism of macropinocytosis and the physiological relevance in the past 5 years (see our publications). While continuing the cell biology research as our main direction, we are trying to apply our findings to other fields, such as immunology, cancer biology, and nephrology. <br/>
+    <br/>Macropinocytosis is large-scale endocytosis, by which cells can ingest or “drink” extracellular nutrients efficiently. We have shown that growth factor stimulation induces macropinocytosis and revealed the molecular mechanism (JCS 2009, Frontiers 2015). Growth factor receptor signaling and the overall metabolic status of the cell are coordinated in the cytoplasm by the mechanistic target-of-rapamycin complex-1 (mTORC1), which positively regulates protein synthesis and negatively regulates molecular salvage pathways such as autophagy.  <br/>
  </p>
 </body>
 </html>
@@ -69,7 +69,7 @@ p.main {text-align:justify; }
 </head>
 <body>
 <p class="main">
-  Recent research including ours (US Patent Application 2008) show that the PI3K/mTORC1 pathway regulates cytokine expression in phagocytes. Given that our finding shows that macropinocytosis regulates PI3K/mTORC1 pathway and that LPS induces macropinocytosos in macrophage, we hypothesize that macropinocytosis modulates cytokine expression via the PI3K/mTORC1 pathway. <br/>
+  Recent researches including ours (US Patent Application 2008) show that the PI3K/mTORC1 pathway regulates cytokine expression in phagocytes. Given that our finding shows that macropinocytosis regulates PI3K/mTORC1 pathway and that LPS induces macropinocytosis in macrophage, we hypothesize that macropinocytosis modulates cytokine expression via the PI3K/mTORC1 pathway. <br/>
 
 <br/>Reference:<br/>
 
@@ -93,7 +93,7 @@ p.main {text-align:justify; }
 </head>
 <body>
 <p class="main">
-  Our current (JCS 2018) and preliminary research show that EGF pathway is regulated by macropinocytosis in breast cancer cell. By combination of biochemistry and imaging, we investigate the pathological roles of macropinocytosis in cancer development. <br/>
+  Our current (JCS 2018) and preliminary research show that the EGF pathway is regulated by macropinocytosis in the breast cancer cell. By the combination of biochemistry and imaging, we investigate the pathological roles of macropinocytosis in cancer development. <br/>
 
 <br/>Reference:<br/>
 
@@ -114,7 +114,7 @@ p.main {text-align:justify; }
 </head>
 <body>
 <p class="main">
-  We are interested in the cell biology of podocyte. Podocytes are highly specialized epithelial cells, which cover glomerulus as a part of the filter function of kidney. It has been shown that podocytes induce macropnicytosis, but the molecular mechanism and the physiological functions are unknown. <br/>
+  We are interested in the cell biology of podocytes. Podocytes are highly specialized epithelial cells, which cover the glomerulus as a part of the filter function of the kidney. It has been shown that podocytes induce macropinocytosis, but the molecular mechanism and the physiological functions are unknown. <br/>
 
 <br/>Reference:<br/>
 
