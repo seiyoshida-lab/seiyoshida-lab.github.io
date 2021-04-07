@@ -17,9 +17,9 @@ p.main {text-align:justify; width="550px";}
 </style>
 </head>
 <body>
-<p class="main"><br/>Our lab is studying the molecular mechanism and the physiological/pathological relevance of PI3K-AKT-mTORC1 pathway in the context of longevity.<br/>
+<p class="main"><br/>Our lab is studying the molecular mechanism and the physiological/pathological relevance of the PI3K-AKT-mTORC1 pathway in the context of longevity.<br/>
   <br/>The main research directions are:<br/>
-&emsp;1. Role of macropinocytosis, a large-scale endocytosis, in AKT activation.<br/>
+&emsp;1. Role of macropinocytosis, large-scale endocytosis, in AKT activation.<br/>
 &emsp;2. Role of the interaction of macropinocytosis-mTORC1 pathway in cancer development.<br/>
 &emsp;3. Role of macropinocytosis in podocyte, kidney epithelial cell.<br/>
 <br/>The extensive breadth and diversity in our research areas (cell biology, biochemistry, nephrology, microbiology, and immunology) enable us to make momentous contributions to the understanding of human health and disease.<br/></p>
