@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sei Yoshida's Lab"
+title: "Sei Yoshida's Lab in Nankai University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
