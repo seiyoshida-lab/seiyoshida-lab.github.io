@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Macropinocytosis/PI3K-AKT-mTORC1 Pathway "
+title: "Sei Yoshida's Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 <html>
 <head>
 <meta charset="utf-8"> 
-<title>text-align用法</title> 
+<title>about</title> 
 <style>
 p.main {text-align:justify; width="550px";}
 </style>
