@@ -42,7 +42,7 @@ author_profile: true
 <div class="content">
   <p>From April 14 to April 16, Dr. Sei Yoshida, Sun Xiaowei (Ph.D. student), Rui Hua, and Wenyue Zheng (undergraduate students) attended the 2021 National academic Conference of the Chinese Society of Cell Biology.</p> 
   <p>On April 15th, Dr. Sei Yoshida gave a report entitled Macropinocytosis in PI3K-mTORC1 pathway at the meeting.</p>
-  <p><img src="../images/20210415.jpg" style="float:left;"></p>
+  <p><img src="../images/20210415.jpg" style="float:none;"></p>
 </div>
   <br>
 <div class="li"><b>2021/Apr/1st &nbsp;&nbsp; New Paper</b></div>
