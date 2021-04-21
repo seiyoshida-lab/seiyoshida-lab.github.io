@@ -38,6 +38,13 @@ author_profile: true
 </head>
 
 <body>
+  <div class="li"><b>2021/Apr/17th &nbsp;&nbsp; 2021 National Academic Conference of the CSCB </b></div>
+<div class="content">
+  <p>From April 14 to April 16, Dr. Sei Yoshida, Sun Xiaowei (Ph.D. student), Rui Hua, and Wenyue Zheng (undergraduate students) attended the 2021 National academic Conference of the Chinese Society of Cell Biology.</p> 
+  <p>On April 15th, Dr. Sei Yoshida gave a report entitled Macropinocytosis in PI3K-mTORC1 pathway at the meeting.</p>
+  <p> <img src="../images/20210415.jpg" style="float:left;" width="150px" height="190px">
+</div>
+  <br>
 <div class="li"><b>2021/Apr/1st &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our first paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> was published in <i>The Journal of Clinical Investigation</i> as a collaboration with The University of Michigan.</p> 
