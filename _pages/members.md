@@ -62,6 +62,16 @@ author_profile: true
             2019 Master of Medicine in Clinical Medicine Tianjin Medical University 07/2018-06/2019 Visiting Student in University of Michigan 08/2010-08/2015 Resident Physician PLA No.254 Hospital<br>
         </td>
     </tr>
+     <tr>
+        <td width="85">
+            <img src="../images/wangli.png" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Li Wang</B><br>
+            <a href="" title="mail">Wangli2855526698"at"163.com</a><br>
+            2018.9-2021.6, Master, school of life science in Tianjin University<br>
+        </td>
+    </tr>
      <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
             <B>Master Degree Student</B>
