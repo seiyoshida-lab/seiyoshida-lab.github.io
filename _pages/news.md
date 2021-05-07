@@ -38,6 +38,13 @@ author_profile: true
 </head>
 
 <body>
+    <div class="li"><b>2021/May/7th &nbsp;&nbsp; Paper Introduction </b></div>
+<div class="content">
+  <p>Our recent paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> which was published in <i>The Journal of Clinical Investigation</i> was introduced by <i>Nature Reviews Nephrology</i> and JCI.</p>
+<a href="https://www.nature.com/articles/s41581-021-00421-7" title="Introduction" target="_blank"></a></p> 
+<a href="https://www.jci.org/this-month/2021/5" title="Introduction" target="_blank"></a></p> 
+</div>
+  <br>
   <div class="li"><b>2021/Apr/17th &nbsp;&nbsp; 2021 National Academic Conference of the CSCB </b></div>
 <div class="content">
   <p>From April 14 to April 16, Dr. Sei Yoshida, Sun Xiaowei (Ph.D. student), Rui Hua, and Wenyue Zheng (undergraduate students) attended the 2021 National academic Conference of the Chinese Society of Cell Biology.</p> 
