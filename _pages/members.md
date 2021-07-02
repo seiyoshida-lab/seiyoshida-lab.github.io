@@ -97,7 +97,7 @@ author_profile: true
             <img src="../images/hayley.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Hayley</B><br>
+            <B>Rui Hua</B><br>
             <a href="" title="mail">ruihua"at"mail.nankai.edu.cn</a><br>
              <a href="https://www.researchgate.net/profile/Rui-Hua" title="Research Gate Page" target="_blank">Research Gate</a><br>
             Undergraduate of Nankai University.<br>
