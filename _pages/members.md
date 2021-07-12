@@ -122,17 +122,7 @@ author_profile: true
             <B>Eason Zhang</B><br>
             <a href="" title="mail">fyeason"at"nankai.edu.cn</a><br>
             Undergraduate of Nankai University.<br>
-        </td>     
-    </tr>
-      <tr>
-        <td width="65">
-            <img src="../images/yutong.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Yutong Li</B><br>
-            <a href="" title="mail">1563659597"at"qq.com</a><br>
-            Undergraduate of Nankai University.<br>
-        </td>     
+        </td>   
     </tr>
        <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
