@@ -8,11 +8,17 @@ author_profile:
 
 <ul style="list-style-type: decimal;">
  
+  <li> <B>Sun X</B>, <B>Zheng W</B>, <B>Hua R</B>, <B>Liu Y</B>, <B>Wang L</B>, Kim Y, Liu X, Mimuro H, Shen Z*, <B>Li L*</B>, <B>Yoshida S*</B>. (2021).<br>
+ Macropinocytosis and SARS CoV-2 Cell Entry. <br>
+ <i>Blood and Genomics. </i>2021, 5(1): 1−12<br>
+  <a href="../files/2021 JCI.pdf">[PDF Download]</a><br>
+  <small> *Co-correponding</small><br><br></li>
+ 
  <li> <B>Yoshida S*</B>, Wei X, Zhang G, L.O’Connor C, Torres M, Zhou Z, Lin L, Menon R, Xu X, <B>Zheng W</B>, Xiong Y, Otto E, Tang C.A, <B>Hua R</B>, Verma R, Mori H, Zhang Y, Hu C.A, Liu M, Garg P, B. Hodgin J, Sun S, Bitzer M, Qi L*. (2021). <br>
  Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function. <br>
  <i>The Journal of Clinical Investigation. </i>131 (7):e143988<br>
   <a href="../files/2021 JCI.pdf">[PDF Download]</a><br>
-  <small> *Co-correponding</small><br><br></li>
+  <small> *Co-corresponding</small><br><br></li>
 
 <li>Swanson JA* and <B>Yoshida S*</B>. (2019). <br> 
  Macropinosomes as units of signal transduction. <br>
