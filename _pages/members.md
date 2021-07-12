@@ -120,7 +120,7 @@ author_profile: true
       </tr>
         <tr align="left">
          <td style="font-size:20px" colspan="2" width="265">
-             <B>Former Lab Members</B>
+             <B>Former Lab Member</B>
            </td>
       </tr>
        <tr>
