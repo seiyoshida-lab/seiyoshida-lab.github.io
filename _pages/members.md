@@ -77,6 +77,16 @@ author_profile: true
             Master Degree Student.<br>
         </td>     
     </tr>
+     <tr>
+        <td width="65">
+            <img src="../images/jinzi.jpg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Jinzi Wei</B><br>
+            <a href="" title="mail">weijinzi2021"at"163.com</a><br>
+            Master Degree Student.<br>
+        </td>     
+    </tr>
     <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
             <B>Undergraduate</B>
