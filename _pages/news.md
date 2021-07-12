@@ -42,7 +42,7 @@ author_profile: true
 <div class="content">
   <p>Our review <b>Macropinocytosis and SARS CoV-2 Cell Entry</b> was published in <i>Blood and Genomics</i>. </p>
   <p>Dr. Yoshida is one of the co-corresponding authors. phD student Xiaowei Sun and undergraduate Wenyue Zheng are the co-first authors. Lab members Rui Hua, Yujie Liu, Li Wang also contributed to this review. </p>
-  <p>For more information, please check this <a href="http://www.blood-genomics.com/ch/reader/view_abstract.aspx?file_no=20210101&flag=1" title="2021 BG" target="_blank">Blood and Genomics</a>. </p>
+  <p>For more information, please check this <a href="http://www.blood-genomics.com/ch/reader/view_abstract.aspx?file_no=20210101&flag=1" target="_blank">Blood and Genomics</a>. </p>
 </div>
   <br>
   
