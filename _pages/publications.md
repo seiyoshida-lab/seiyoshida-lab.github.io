@@ -10,7 +10,7 @@ author_profile:
  
   <li> <B>Sun X</B>, <B>Zheng W</B>, <B>Hua R</B>, <B>Liu Y</B>, <B>Wang L</B>, Kim Y, Liu X, Mimuro H, Shen Z*, <B>Li L*</B>, <B>Yoshida S*</B>. (2021).<br>
  Macropinocytosis and SARS CoV-2 Cell Entry. <br>
- <i>Blood and Genomics. </i>2021, 5(1): 1−12<br>
+ <i>Blood and Genomics. </i>2021, 5(1): 1−12 (review)<br>
   <a href="../files/2021 BG.pdf">[PDF Download]</a><br>
   <small> *Co-correponding</small><br><br></li>
  
