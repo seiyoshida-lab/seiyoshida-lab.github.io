@@ -29,16 +29,6 @@ author_profile: true
     </tr>
     <tr>
         <td width="65">
-            <img src="../images/lianli.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Lian Li</B><br>
-            <a href="">lilian523"at"nankai.edu.cn</a><br>
-            I received my Ph.D. from Nankai University, in 2013, then moved to the General Hospital of Tianjin Medical University as a Research Associate. From 2016 to 2019, I worked as a Postdoc Fellow at the University of Pittsburgh Medical Center (UPMC) and The Ohio State University Wexner Medical Center. From 2020, I have started my studies as an associate professor at Nankai University. Now I have taken charge of two NSFC grants as PI and published SCI papers on JEM and other journals.<br>
-        </td>
-    </tr>
-    <tr>
-        <td width="65">
             <img src="../images/huaqin.png" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
@@ -103,27 +93,6 @@ author_profile: true
             Undergraduate of Nankai University.<br>
         </td>     
     </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/wenyue.png" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Wenyue Zheng</B><br>
-            <a href="" title="mail">wenyuez"at"mail.nankai.edu.cn</a><br>
-             <a href="https://www.researchgate.net/profile/Wenyue-Zheng-3" title="Research Gate Page" target="_blank">Research Gate</a><br>
-            Undergraduate of Nankai University.<br>
-        </td>     
-    </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/eason.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Eason Zhang</B><br>
-            <a href="" title="mail">fyeason"at"nankai.edu.cn</a><br>
-            Undergraduate of Nankai University.<br>
-        </td>   
-    </tr>
        <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
             <B>Visiting Student</B>
@@ -144,6 +113,16 @@ author_profile: true
              <B>Former Lab Members</B>
            </td>
       </tr>
+       <tr>
+        <td width="65">
+            <img src="../images/lianli.jpg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Lian Li</B><br>
+            <a href="">lilian523"at"nankai.edu.cn</a><br>
+            I received my Ph.D. from Nankai University, in 2013, then moved to the General Hospital of Tianjin Medical University as a Research Associate. From 2016 to 2019, I worked as a Postdoc Fellow at the University of Pittsburgh Medical Center (UPMC) and The Ohio State University Wexner Medical Center. From 2020, I have started my studies as an associate professor at Nankai University. Now I have taken charge of two NSFC grants as PI and published SCI papers on JEM and other journals.<br>
+        </td>
+    </tr>
       <tr>
         <td width="65">
             <img src="../images/wenyue.png" style="float:left;" width="150px" height="190px">
@@ -160,7 +139,7 @@ author_profile: true
             <img src="../images/eason.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Eason Zhang</B><br>
+            <B>Yixin Zhang</B><br>
             <a href="" title="mail">fyeason"at"nankai.edu.cn</a><br>
             Undergraduate of Nankai University.<br>
         </td>   
