@@ -124,9 +124,7 @@ author_profile: true
            </td>
       </tr>
        <tr>
-        <td width="65">
-            <img src="../images/lianli.jpg" style="float:left;" width="150px" height="190px">
-        </td>
+        
         <td style="font-size:18px" width="200">
             <B>Lian Li</B><br>
             <a href="">lilian523"at"nankai.edu.cn</a><br>
