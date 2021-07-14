@@ -125,11 +125,10 @@ author_profile: true
       </tr>
        <tr>
         
-        <td style="font-size:18px" width="200">
             <B>Lian Li</B><br>
             <a href="">lilian523"at"nankai.edu.cn</a><br>
             I received my Ph.D. from Nankai University, in 2013, then moved to the General Hospital of Tianjin Medical University as a Research Associate. From 2016 to 2019, I worked as a Postdoc Fellow at the University of Pittsburgh Medical Center (UPMC) and The Ohio State University Wexner Medical Center. From 2020, I have started my studies as an associate professor at Nankai University. Now I have taken charge of two NSFC grants as PI and published SCI papers on JEM and other journals.<br>
-        </td>
+       
     </tr>
       <tr>
         <td width="65">
