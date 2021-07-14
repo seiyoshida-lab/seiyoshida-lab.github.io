@@ -125,27 +125,23 @@ author_profile: true
       </tr>
        <tr>
         <td style="font-size:18px" width="200">
-            <B>Lian Li</B><br>
+            <B>Lian Li（李莲）</B><br>
             <a href="">lilian523"at"nankai.edu.cn</a><br>
         </td> 
     </tr>
       <tr>
-        <td width="65">
-            <img src="../images/wenyue.png" style="float:left;" width="150px" height="190px">
-        </td>
+       
         <td style="font-size:18px" width="200">
-            <B>Wenyue Zheng</B><br>
+            <B>Wenyue Zheng（郑文悦）</B><br>
             <a href="" title="mail">wenyuez"at"mail.nankai.edu.cn</a><br>
-             <a href="https://www.researchgate.net/profile/Wenyue-Zheng-3" title="Research Gate Page" target="_blank">Research Gate</a><br>
+             
             Undergraduate of Nankai University.<br>
         </td>     
     </tr>
     <tr>
-        <td width="65">
-            <img src="../images/eason.jpg" style="float:left;" width="150px" height="190px">
-        </td>
+       
         <td style="font-size:18px" width="200">
-            <B>Yixin Zhang</B><br>
+            <B>Yixin Zhang（张益鑫）</B><br>
             <a href="" title="mail">fyeason"at"nankai.edu.cn</a><br>
             Undergraduate of Nankai University.<br>
         </td>   
