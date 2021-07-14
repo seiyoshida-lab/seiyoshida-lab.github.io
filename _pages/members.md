@@ -125,7 +125,7 @@ author_profile: true
       </tr>
        <tr>
         <td style="font-size:18px" width="200">
-            <B>Lian Li（李莲）</B> 
+            <B>Lian Li（李莲）</B><br>
              Associate Professor 2020.9-2021.6<br>
            
         </td> 
