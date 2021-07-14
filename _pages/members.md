@@ -16,7 +16,7 @@ author_profile: true
             <img src="../images/sei.png" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Sei Yoshida</B><br>
+            <B>Sei Yoshida（吉田 整）</B><br>
             <a href="" title="mail">seiyoshi"at"nankai.edu.cn</a><br>
             <a href="https://www.researchgate.net/profile/Sei_Yoshida" title="Research Gate Page" target="_blank">Research Gate</a><br>
             I received my Ph.D. from the University of Tokyo, Japan, in 2002, then moved to the University of Michigan, the USA in 2006. After 14-year research experience in the US, I have started my lab at Nankai University, Tianjin, China in 2020.<br>
@@ -32,7 +32,7 @@ author_profile: true
             <img src="../images/huaqin.png" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Hua Qin</B><br>
+            <B>Hua Qin（秦华）</B><br>
             <a href="">qinhua"at"nankai.edu.cn</a><br>
             Associate Professor in Nankai University. I got my Ph.D. from Tianjin Medical University and then did postdoctoral research in Chinese PLA General Hospital (301 Hospital). I have long been engaged in the scientific research of stem cells, tissue repair, and regeneration, meanwhile, I focus on the usage of small molecules to control the cell fate of somatic cells and investigate their roles in cell reprogramming, transdifferentiation, and in vivo tissue regeneration. As PI, I have undertaken one NSFC grant and other three grants and published SCI papers (in Science Advances, Protein&Cell, and other journals).<br>
         </td>
@@ -47,7 +47,7 @@ author_profile: true
             <img src="../images/xiaowei.png" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Xiaowei Sun</B><br>
+            <B>Xiaowei Sun（孙晓薇）</B><br>
             <a href="" title="mail">sunxiaowei"at"mail.nankai.edu.cn</a><br>
             2019 Master of Medicine in Clinical Medicine Tianjin Medical University 07/2018-06/2019 Visiting Student in University of Michigan 08/2010-08/2015 Resident Physician PLA No.254 Hospital<br>
         </td>
@@ -57,7 +57,7 @@ author_profile: true
             <img src="../images/wangli.png" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Li Wang</B><br>
+            <B>Li Wang（王丽）</B><br>
             <a href="" title="mail">Wangli2855526698"at"163.com</a><br>
             2018.9-2021.6, Master, school of life science in Tianjin University<br>
         </td>
@@ -72,7 +72,7 @@ author_profile: true
             <img src="../images/yujie.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Yujie Liu</B><br>
+            <B>Yujie Liu（刘雨洁）</B><br>
             <a href="" title="mail">1207154097"at"qq.com</a><br>
             Master Degree Student.<br>
         </td>     
@@ -82,7 +82,7 @@ author_profile: true
             <img src="../images/jinzi.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Jinzi Wei</B><br>
+            <B>Jinzi Wei（韦金孜）</B><br>
             <a href="" title="mail">weijinzi2021"at"163.com</a><br>
             Master Degree Student.<br>
         </td>     
@@ -97,7 +97,7 @@ author_profile: true
             <img src="../images/hayley.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Rui Hua</B><br>
+            <B>Rui Hua（花蕊）</B><br>
             <a href="" title="mail">ruihua"at"mail.nankai.edu.cn</a><br>
              <a href="https://www.researchgate.net/profile/Rui-Hua" title="Research Gate Page" target="_blank">Research Gate</a><br>
             Undergraduate of Nankai University.<br>
@@ -113,7 +113,7 @@ author_profile: true
             <img src="../images/xiaoyu.jpg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Xiaoyu Zhang</B><br>
+            <B>Xiaoyu Zhang（张晓雨）</B><br>
             <a href="" title="mail">762656889"at"qq.com</a><br>
             I'm Zhang Xiaoyu, a student from Tianjin Medical university, majoring in clinical medicine.<br>
         </td>  
