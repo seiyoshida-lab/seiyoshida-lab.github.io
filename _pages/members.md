@@ -127,23 +127,19 @@ author_profile: true
         <td style="font-size:18px" width="200">
             <B>Lian Li（李莲）</B><br>
              Associate Professor 2020.9-2021.6<br>
-           
         </td> 
     </tr>
       <tr>
         <td style="font-size:18px" width="200">
             <B>Wenyue Zheng（郑文悦）</B><br>
-            <a href="" title="mail">wenyuez"at"mail.nankai.edu.cn</a><br>
-             
-            Undergraduate of Nankai University.<br>
+            Undergraduate of Nankai University 2020.10-2021.5.<br>
         </td>     
     </tr>
     <tr>
        
         <td style="font-size:18px" width="200">
             <B>Yixin Zhang（张益鑫）</B><br>
-            <a href="" title="mail">fyeason"at"nankai.edu.cn</a><br>
-            Undergraduate of Nankai University.<br>
+            Undergraduate of Nankai University 2020.9-2021.6<br>
         </td>   
     </tr>
     </table>
