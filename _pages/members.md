@@ -119,7 +119,7 @@ author_profile: true
         </td>  
       </tr>
         <tr align="left">
-         <td style="font-size:20px" colspan="2" width="265">
+         <td style="font-size:20px" colspan="1" width="530">
              <B>Former Lab Member</B>
            </td>
       </tr>
@@ -130,7 +130,6 @@ author_profile: true
         </td> 
     </tr>
       <tr>
-       
         <td style="font-size:18px" width="200">
             <B>Wenyue Zheng（郑文悦）</B><br>
             <a href="" title="mail">wenyuez"at"mail.nankai.edu.cn</a><br>
