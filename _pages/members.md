@@ -119,14 +119,14 @@ author_profile: true
         </td>  
       </tr>
         <tr align="left">
-         <td style="font-size:20px" colspan="1" width="530">
+         <td style="font-size:20px" colspan="2" width="265">
              <B>Former Lab Member</B>
            </td>
       </tr>
        <tr>
         <td style="font-size:18px" width="200">
-            <B>Lian Li（李莲）</B><br>
-            <a href="">lilian523"at"nankai.edu.cn</a><br>
+            <B>Lian Li（李莲）</B> Associate Professor 2020.9-2021.6<br>
+           
         </td> 
     </tr>
       <tr>
