@@ -17,6 +17,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             University of Michigan<br>
+            USA<br>
             <a href="https://sites.google.com/a/umich.edu/joel-swanson-lab/home-1" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
@@ -26,6 +27,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             The University of Queensland<br>
+            Australia<br>
             <a href="http://stow.imb.uq.edu.au/page.php?id=1" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
@@ -35,6 +37,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             Institute of Biophysics, Chinese Academy of Sciences<br>
+            China<br>
             <a href="http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/xsszmA_G/201912/t20191202_5447305.html" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
@@ -44,6 +47,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             Keio University<br>
+            Japan<br>
             <a href="https://k-ris.keio.ac.jp/html/100013045_en.html" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
@@ -53,6 +57,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             University of Connecticut<br>
+            USA<br>
             <a href="https://health.uconn.edu/germline-stem-cells/" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
@@ -62,6 +67,7 @@ author_profile: true
       </td>
       <td style="font-size:18px" width="200">
             University of Michigan<br>
+            USA<br>
             <a href="https://ling-qi.lab.medicine.umich.edu/" title="Lab Website" target="_blank">Lab Website</a><br>
         </td>
     </tr>
