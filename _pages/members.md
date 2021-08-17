@@ -121,25 +121,33 @@ author_profile: true
        <tr>
         <td style="font-size:18px" width="200">
             <B>Lian Li（李莲）</B><br>
-             Associate Professor 2020.9-2021.6<br>
+        </td>
+        <td style="font-size:18px" width="200">
+             Associate Professor<br> 
+             2020.9-2021.6<br>
         </td> 
     </tr>
       <tr>
         <td style="font-size:18px" width="200">
             <B>Wenyue Zheng（郑文悦）</B><br>
-            Undergraduate of Nankai University 2020.10-2021.5.<br>
+        </td>
+        <td style="font-size:18px" width="200">
+            Undergraduate of Nankai University. 2020.10-2021.5<br>
         </td>     
     </tr>
-    <tr>
-       
+    <tr> 
         <td style="font-size:18px" width="200">
-            <B>Yixin Zhang（张益鑫）</B><br>
-            Undergraduate of Nankai University 2020.9-2021.6<br>
+            <B>Yixin Zhang（张益鑫）</B><br>        
+         </td>
+        <td style="font-size:18px" width="200">
+            Undergraduate of Nankai University. 2020.9-2021.6<br>
         </td>   
     </tr>
     <tr>
         <td style="font-size:18px" width="200">
-            <B>Xiaoyu Zhang（张晓雨）</B><br>
+            <B>Xiaoyu Zhang（张晓雨）</B><br>        
+         </td>
+        <td style="font-size:18px" width="200">
             Master of Tianjin Medical university, majoring in clinical medicine. 2021.1-2021.8<br>
         </td>   
     </tr>
