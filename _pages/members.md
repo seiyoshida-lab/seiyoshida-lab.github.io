@@ -132,7 +132,8 @@ author_profile: true
             <B>Wenyue Zheng（郑文悦）</B><br>
         </td>
         <td style="font-size:18px" width="200">
-            Undergraduate of Nankai University. 2020.10-2021.5<br>
+            Undergraduate of Nankai University<br> 
+            2020.10-2021.5<br>
         </td>     
     </tr>
     <tr> 
@@ -140,7 +141,8 @@ author_profile: true
             <B>Yixin Zhang（张益鑫）</B><br>        
          </td>
         <td style="font-size:18px" width="200">
-            Undergraduate of Nankai University. 2020.9-2021.6<br>
+            Undergraduate of Nankai University<br> 
+            2020.9-2021.6<br>
         </td>   
     </tr>
     <tr>
@@ -148,7 +150,8 @@ author_profile: true
             <B>Xiaoyu Zhang（张晓雨）</B><br>        
          </td>
         <td style="font-size:18px" width="200">
-            Master of Tianjin Medical university, majoring in clinical medicine. 2021.1-2021.8<br>
+            Master of Tianjin Medical university, majoring in clinical medicine<br> 
+            2021.1-2021.8<br>
         </td>   
     </tr>
     </table>
