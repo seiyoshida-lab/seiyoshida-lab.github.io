@@ -112,22 +112,7 @@ author_profile: true
             <a href="" title="mail">852978196@qq.com</a><br>
             Undergraduate of Nankai University.<br>
         </td>     
-    </tr>
-       <tr align="left">
-        <td style="font-size:20px" colspan="2" width="265">
-            <B>Visiting Student</B>
-          </td>
      </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/xiaoyu.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Xiaoyu Zhang（张晓雨）</B><br>
-            <a href="" title="mail">762656889"at"qq.com</a><br>
-            I'm Zhang Xiaoyu, a student from Tianjin Medical university, majoring in clinical medicine.<br>
-        </td>  
-      </tr>
         <tr align="left">
          <td style="font-size:20px" colspan="2" width="265">
              <B>Former Lab Member</B>
@@ -150,6 +135,12 @@ author_profile: true
         <td style="font-size:18px" width="200">
             <B>Yixin Zhang（张益鑫）</B><br>
             Undergraduate of Nankai University 2020.9-2021.6<br>
+        </td>   
+    </tr>
+    <tr>
+        <td style="font-size:18px" width="200">
+            <B>Xiaoyu Zhang（张晓雨）</B><br>
+            Master of Tianjin Medical university, majoring in clinical medicine. 2021.1-2021.8<br>
         </td>   
     </tr>
     </table>
