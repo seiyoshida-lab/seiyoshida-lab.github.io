@@ -150,7 +150,7 @@ author_profile: true
             <B>Xiaoyu Zhang（张晓雨）</B><br>        
          </td>
         <td style="font-size:18px" width="200">
-            Master degree student of Tianjin Medical university, majoring in clinical medicine<br> 
+            Student of Tianjin Medical university, majoring in clinical medicine<br> 
             2021.1-2021.8<br>
         </td>   
     </tr>
