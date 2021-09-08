@@ -40,9 +40,9 @@ author_profile: true
 <body>
     <div class="li"><b>2021/September/7th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
-  <p>Our collaboration paper <b>"Capecitabine Can Induce T Cell Apoptosis: A Potential Immunosuppressive Agent With Anti-Cancer Effect"</b> has been published in Frontiers in <i>Immunology</i>. </p>
+  <p>Our collaboration paper <b>"Capecitabine Can Induce T Cell Apoptosis: A Potential Immunosuppressive Agent With Anti-Cancer Effect"</b> has been published in <i>Frontiers in Immunology</i>. </p>
   <p>For more information, please check this <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2021.737849/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=737849
-" target="_blank">Immunology</a>. </p>
+" target="_blank">Frontiers in Immunology</a>. </p>
 </div>
   <br>
   
