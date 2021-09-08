@@ -87,9 +87,5 @@ Shigella delivers an effector protein to trigger host microtubule dynamic-instab
  <i>EMBO Journal.</i>21:2923-2935.<br>
  <a href="../files/2002 EMBO.pdf">[PDF Download]</a><br><br></li>
   
-  <li> Sai Zhang, Zhenglu Wang, Shunli Fan, Tao Liu, <B>Sei Yoshida</B>, Shuang Yang, Lei Liu, Wen Hou, Lei Cao, Jianxi Wang, Zhuolun Song, Shanni Li, Sirui Zhang, Hao Wang, Jianghong Li, Hong Zheng* and Zhongyang Shen*. (2021). <br> 
-Capecitabine Can Induce T Cell Apoptosis: A Potential Immunosuppressive Agent With Anti-Cancer Effect.<br>
- <i>Frontiers in Immunology.</i>doi: 10.3389/fimmu.2021.737849.<br>
-  <small> *Correspondence</small><br><br></li>
 </ul>
 
