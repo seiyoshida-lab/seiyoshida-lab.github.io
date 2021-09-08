@@ -48,15 +48,15 @@ author_profile: true
   
   <div class="li"><b>2021/May/26th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
-  <p>Our review <b>Macropinocytosis and SARS CoV-2 Cell Entry</b> was published in <i>Blood and Genomics</i>. </p>
-  <p>Dr. Yoshida is the corresponding author. phD student Xiaowei Sun and undergraduate Wenyue Zheng are the co-first authors. Lab members Rui Hua, Yujie Liu, Li Wang also contributed to this review. </p>
+  <p>Our review <b>Macropinocytosis and SARS CoV-2 Cell Entry</b> has been published in <i>Blood and Genomics</i>. </p>
+  <p>Dr. Yoshida is the corresponding author. PhD student Xiaowei Sun and undergraduate Wenyue Zheng are the co-first authors. Lab members Rui Hua, Yujie Liu, Li Wang also contributed to this review. </p>
   <p>For more information, please check this <a href="http://www.blood-genomics.com/ch/reader/view_abstract.aspx?file_no=20210101&flag=1" target="_blank">Blood and Genomics</a>. </p>
 </div>
   <br>
   
     <div class="li"><b>2021/May/7th &nbsp;&nbsp; Paper Introduction </b></div>
 <div class="content">
-  <p>Our recent paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> which was published in <i>The Journal of Clinical Investigation</i> was introduced by <i>Nature Reviews Nephrology</i> and JCI.</p>
+  <p>Our recent paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> which has been published in <i>The Journal of Clinical Investigation</i> was introduced by <i>Nature Reviews Nephrology</i> and JCI.</p>
 <p><a href="https://www.nature.com/articles/s41581-021-00421-7" title="Introduction" target="_blank">Nature Reviews Nephrology</a></p> 
 <p><a href="https://www.jci.org/this-month/2021/5" title="Introduction" target="_blank">The Journal of Clinical Investigation</a></p> 
 </div>
@@ -69,7 +69,7 @@ author_profile: true
   <br>
 <div class="li"><b>2021/Apr/1st &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
-  <p>Our first paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> was published in <i>The Journal of Clinical Investigation</i> as a collaboration with The University of Michigan.</p> 
+  <p>Our first paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> has been published in <i>The Journal of Clinical Investigation</i> as a collaboration with The University of Michigan.</p> 
   <p>Dr. Yoshida is the 1st co-first author and a co-corresponding author. Two undergraduates, Wenyue Zheng, and Rui Hua contribute this as co-authors.</p> 
   <p>This paper was highlighted as the cover article. For more information, please see the <a href="https://seiyoshida-lab.github.io/publications/" title="Publications" target="_blank">Publications</a>.</p>
 </div>
