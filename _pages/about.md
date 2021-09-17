@@ -44,5 +44,4 @@ Related Links
 
 Lab Party Time
 ------
-![party](/images/party.png "party")
-![0917](/images/0917.jpeg "0917")
+![party](/images/party.png "party") ![0917](/images/0917.jpeg "0917")
