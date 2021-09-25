@@ -83,7 +83,7 @@ author_profile: true
         </td>
         <td style="font-size:18px" width="200">
             <B>Jinzi Wei（韦金孜）</B><br>
-            <a href="" title="mail">weijinzi2021"at"163.com</a><br>
+            <a href="" title="mail">weijinzi"at"mail.nankai.edu.cn</a><br>
             Master Degree Student.<br>
         </td>     
     </tr>
@@ -111,7 +111,23 @@ author_profile: true
             <B>Shuheng Zhou（周树恒）</B><br>
             <a href="" title="mail">852978196@qq.com</a><br>
             Undergraduate of Nankai University.<br>
-        </td>     
+              </td>     
+    </tr>
+    <tr align="left">
+        <td style="font-size:20px" colspan="2" width="265">
+            <B>Exchange PhD Student</B>
+          </td>
+     </tr>
+    <tr>
+        <td width="65">
+            <img src="../images/chenjianan.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Jianan Chen（陈佳男）</B><br>
+            <a href="" title="mail">asdfch"at"126.com</a><br>
+            2021.09-2025.06, Ph.D, Medical School of Nankai University<br>
+            2017.09-2020.06, Master, Medical School of Shandong University.<br>
+        </td>
      </tr>
         <tr align="left">
          <td style="font-size:20px" colspan="2" width="265">
