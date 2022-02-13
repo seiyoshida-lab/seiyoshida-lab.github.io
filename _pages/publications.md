@@ -7,6 +7,11 @@ author_profile:
 ---
 
 <ul style="list-style-type: decimal;">
+
+  <li> Liang R, Liu N, Cao J, Liu T, Sun P, Cai X, Zhang L, Liu Y, Zou J, Wang L, Ding X, Zhang B, Shen Z,<B>Yoshida S*</B>, Dou J*, Wang S*. (2022).<br>
+ HIF-1α/FOXO1 axis regulated autophagy is protective for β cell survival under hypoxia in human islets. <br>
+ <i>Biochim Biophys Acta Mol Basis Dis. </i>2022 Feb 3:166356. doi: 10.1016/j.bbadis.2022.166356.<br>
+  <small> *Co-correponding</small><br><br></li>
  
   <li> <B>Sun X</B>, <B>Zheng W</B>, <B>Hua R</B>, <B>Liu Y</B>, <B>Wang L</B>, Kim Y, Liu X, Mimuro H, Shen Z*, <B>Li L*</B>, <B>Yoshida S*</B>. (2021).<br>
  Macropinocytosis and SARS CoV-2 Cell Entry. <br>
