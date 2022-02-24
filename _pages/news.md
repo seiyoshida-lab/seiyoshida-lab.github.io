@@ -53,8 +53,7 @@ author_profile: true
   <p>For more information, please check this <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2021.737849/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=737849
 " target="_blank">Frontiers in Immunology</a>. </p>
 </div>
-  <br>
-  
+  <br>  
   <div class="li"><b>2021/May/26th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our review <b>Macropinocytosis and SARS CoV-2 Cell Entry</b> has been published in <i>Blood and Genomics</i>. </p>
@@ -62,7 +61,6 @@ author_profile: true
   <p>For more information, please check this <a href="http://www.blood-genomics.com/ch/reader/view_abstract.aspx?file_no=20210101&flag=1" target="_blank">Blood and Genomics</a>. </p>
 </div>
   <br>
-  
     <div class="li"><b>2021/May/7th &nbsp;&nbsp; Paper Introduction </b></div>
 <div class="content">
   <p>Our recent paper <b>Endoplasmic reticulum-associated degradation is required for nephrin maturation and kidney glomerular filtration function</b> which has been published in <i>The Journal of Clinical Investigation</i> was introduced by <i>Nature Reviews Nephrology</i> and JCI.</p>
@@ -86,8 +84,7 @@ author_profile: true
   <div class="li"><b>2021/Mar/22th &nbsp;&nbsp; Welcome Here</b></div>
 <div class="content">
   <p>Welcome to Dr. Sei Yoshida's Lab Website!</p>
-</div>
-  
+</div>  
 </body>
 </html>
 
