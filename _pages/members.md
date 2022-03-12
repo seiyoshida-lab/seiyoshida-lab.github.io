@@ -21,22 +21,7 @@ author_profile: true
             <a href="https://www.researchgate.net/profile/Sei_Yoshida" title="Research Gate Page" target="_blank">Research Gate</a><br>
             I received my Ph.D. from the University of Tokyo, Japan, in 2002, then moved to the University of Michigan, the USA in 2006. After 14-year research experience in the US, I have started my lab at Nankai University, Tianjin, China in 2020.<br>
         </td>
-    </tr>
-    <tr align="left">
-        <td style="font-size:20px" colspan="2" width="265">
-            <B>Associate Professor</B>
-          </td>
-    </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/huaqin.png" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Hua Qin（秦华）</B><br>
-            <a href="">qinhua"at"nankai.edu.cn</a><br>
-            Associate Professor in Nankai University. I got my Ph.D. from Tianjin Medical University and then did postdoctoral research in Chinese PLA General Hospital (301 Hospital). I have long been engaged in the scientific research of stem cells, tissue repair, and regeneration, meanwhile, I focus on the usage of small molecules to control the cell fate of somatic cells and investigate their roles in cell reprogramming, transdifferentiation, and in vivo tissue regeneration. As PI, I have undertaken one NSFC grant and other three grants and published SCI papers (in Science Advances, Protein&Cell, and other journals).<br>
-        </td>
-    </tr>
+    </tr >
      <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
             <B>Ph.D Student</B>
@@ -60,6 +45,16 @@ author_profile: true
             <B>Li Wang（王丽）</B><br>
             <a href="" title="mail">Wangli2855526698"at"163.com</a><br>
             2018.9-2021.6, Master, school of life science in Tianjin University<br>
+        </td>
+    </tr>
+     <tr>
+        <td width="85">
+            <img src="../images/yanan.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Li Yanan（李亚男）</B><br>
+            <a href="" title="mail">lynguilai"at"163.com</a><br>
+            2019.9-2022.6, Master, school of life science in Nankai University<br>
         </td>
     </tr>
      <tr align="left">
@@ -141,6 +136,14 @@ author_profile: true
         <td style="font-size:18px" width="200">
              Associate Professor<br> 
              2020.9-2021.6<br>
+        </td> 
+     </tr>
+       <tr>
+        <td style="font-size:18px" width="200">
+            <B>Hua Qin（秦华）</B><br>
+        </td>
+        <td style="font-size:18px" width="200">
+             Associate Professor<br> 
         </td> 
     </tr>
       <tr>
