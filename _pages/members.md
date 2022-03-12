@@ -52,7 +52,7 @@ author_profile: true
             <img src="../images/yanan.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>Li Yanan（李亚男）</B><br>
+            <B>Yanan Li（李亚男）</B><br>
             <a href="" title="mail">lynguilai"at"163.com</a><br>
             2019.9-2022.6, Master, school of life science in Nankai University<br>
         </td>
