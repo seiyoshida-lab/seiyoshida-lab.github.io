@@ -104,7 +104,17 @@ author_profile: true
         </td>
         <td style="font-size:18px" width="200">
             <B>Shuheng Zhou（周树恒）</B><br>
-            <a href="" title="mail">852978196@qq.com</a><br>
+            <a href="" title="mail">852978196“at“qq.com</a><br>
+            Undergraduate of Nankai University.<br>
+              </td>     
+    </tr>
+     <tr>
+        <td width="65">
+            <img src="../images/zlc.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Liangci Zhang（张亮辞）</B><br>
+            <a href="" title="mail">2013495“at“mail.nankai.edu.cn</a><br>
             Undergraduate of Nankai University.<br>
               </td>     
     </tr>
@@ -122,6 +132,17 @@ author_profile: true
             <a href="" title="mail">asdfch"at"126.com</a><br>
             2021.09-2025.06, Ph.D, Medical School of Nankai University<br>
             2017.09-2020.06, Master, Medical School of Shandong University.<br>
+        </td>
+     </tr>
+    <tr>
+        <td width="65">
+            <img src="../images/yxh.png" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Xinghui Yu（于兴辉) </B><br>
+            <a href="" title="mail">704316147"at"qq.com</a><br>
+            2021.09-2025.06,Ph.D,Medical School of Nankai University<br>
+            2014.09-2017.06,Master,Hebei Medical University.<br>
         </td>
      </tr>
         <tr align="left">
