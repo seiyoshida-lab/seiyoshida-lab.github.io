@@ -82,6 +82,16 @@ author_profile: true
             Master Degree Student.<br>
         </td>     
     </tr>
+          <tr>
+        <td width="65">
+            <img src="../images/yuxin.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Yuxin He（何雨欣）</B><br>
+            <a href="" title="mail">heyx99986“at“163.com</a><br>
+            Master Degree Student.<br>
+        </td>     
+    </tr>
     <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
             <B>Undergraduate</B>
