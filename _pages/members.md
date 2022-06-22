@@ -189,6 +189,7 @@ author_profile: true
          </td>
         <td style="font-size:18px" width="200">
             Undergraduate of Nankai University<br> 
+            2020.10-2022.6<br>
         </td>   
     </tr>
     <tr>
@@ -196,8 +197,9 @@ author_profile: true
             <B>Shuheng Zhou（周树恒）</B><br>
          </td>
         <td style="font-size:18px" width="200">
-            Undergraduate of Nankai University<br> 
-     </tr>
+            Undergraduate of Nankai University<br>
+            2021.8-2022.6<br>        
+    </tr>
     <tr>
     </table>
 ---
