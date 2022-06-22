@@ -90,17 +90,7 @@ author_profile: true
             <B>Yuxin He（何雨欣）</B><br>
             <a href="" title="mail">heyx99986“at“163.com</a><br>
             Master Degree Student.<br>
-        </td>       
-    </tr>
-     <tr>
-        <td width="65">
-            <img src="../images/zhoushuheng.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Shuheng Zhou（周树恒）</B><br>
-            <a href="" title="mail">852978196“at“qq.com</a><br>
-            Undergraduate of Nankai University.<br>
-              </td>     
+        </td>      
     </tr>
      <tr>
         <td width="65">
