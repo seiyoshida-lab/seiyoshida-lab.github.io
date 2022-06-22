@@ -90,23 +90,7 @@ author_profile: true
             <B>Yuxin He（何雨欣）</B><br>
             <a href="" title="mail">heyx99986“at“163.com</a><br>
             Master Degree Student.<br>
-        </td>     
-    </tr>
-    <tr align="left">
-        <td style="font-size:20px" colspan="2" width="265">
-            <B>Undergraduate</B>
-          </td>
-     </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/hayley.jpg" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Rui Hua（花蕊）</B><br>
-            <a href="" title="mail">ruihua"at"mail.nankai.edu.cn</a><br>
-             <a href="https://www.researchgate.net/profile/Rui-Hua" title="Research Gate Page" target="_blank">Research Gate</a><br>
-            Undergraduate of Nankai University.<br>
-        </td>     
+        </td>       
     </tr>
      <tr>
         <td width="65">
