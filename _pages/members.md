@@ -105,7 +105,17 @@ author_profile: true
             <B>Liangci Zhang（张亮辞）</B><br>
             <a href="" title="mail">2013495“at“mail.nankai.edu.cn</a><br>
             Undergraduate of Nankai University.<br>
-              </td>     
+              </td> 
+    </tr>
+     <tr>
+        <td width="65">
+            <img src="../images/kofi.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>Kofi Gyfiënsa（科菲）</B><br>
+            <a href="" title="mail">shashakofisk@gmail.com</a><br>
+            Undergraduate of Nankai University.<br>
+              </td> 
     </tr>
     <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
