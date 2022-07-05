@@ -34,7 +34,7 @@ author_profile: true
 </style>
 </head>
 <body>
-  <div class="li"><b>2022/September/7th &nbsp;&nbsp; New Paper</b></div>
+  <div class="li"><b>2022/May/1th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our collaboration paper <b>"HIF-1α/FOXO1 axis regulated autophagy is protective for β cell survival under hypoxia in human islets"</b> has been published in <i>Biochim Biophys Acta Mol Basis Dis</i>. Dr. Yoshida is one of the co-corresponding authors. </p>
   <p>For more information, please check this <a href="https://www.sciencedirect.com/science/article/pii/S0925443922000199
