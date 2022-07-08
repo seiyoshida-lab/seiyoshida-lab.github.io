@@ -8,7 +8,7 @@ author_profile:
 
 <ul style="list-style-type: decimal;">
 
-  <li><B>Sun X</B>, <B>Liu Y<B>, <B>Zhou S<B>, <B>Wang L<B>, <B>Wei J<B>,<B> Hua R<B>,, Shen Z*<B>Yoshida S*</B>. (2022).<br>
+  <li><B>Sun X</B>, <B>Liu Y</B>, <B>Zhou S</B>, <B>Wang L</B>, <B>Wei J</B>,<B> Hua R</B>,, Shen Z*<B>Yoshida S*</B>. (2022).<br>
  Circular dorsal ruffles disturb the growth factor-induced PI3K-AKT pathway in hepatocellular carcinoma Hep3B cells. <br>
  <i>Cell Communication and Signaling. </i>2022 July 7. doi: 10.1186/s12964-022-00911-6.<br>
   <small> *Co-correponding</small><br><br></li>
