@@ -10,7 +10,7 @@ author_profile:
 
   <li><B>Sun X</B>, <B>Liu Y</B>, <B>Zhou S</B>, <B>Wang L</B>, <B>Wei J</B>,<B> Hua R</B>, Shen Z*<B>Yoshida S*</B>. (2022).<br>
  Circular dorsal ruffles disturb the growth factor-induced PI3K-AKT pathway in hepatocellular carcinoma Hep3B cells. <br>
- <i>Cell Communication and Signaling. </i>2022 July 7. doi: 10.1186/s12964-022-00911-6.<br>
+ <i>Cell Communication and Signaling. </i>2022 July 7. doi: 10.1186/s12964-022-00911-6.<br></li>
 
   <li> Liang R, Liu N, Cao J, Liu T, Sun P, Cai X, Zhang L, Liu Y, Zou J, Wang L, Ding X, Zhang B, Shen Z,<B>Yoshida S*</B>, Dou J*, Wang S*. (2022).<br>
  HIF-1α/FOXO1 axis regulated autophagy is protective for β cell survival under hypoxia in human islets. <br>
