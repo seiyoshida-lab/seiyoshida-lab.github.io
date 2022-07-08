@@ -34,6 +34,14 @@ author_profile: true
 </style>
 </head>
 <body>
+  <div class="li"><b>2022/July/7th &nbsp;&nbsp; New Paper</b></div>
+<div class="content">
+  <p>Our collaboration paper <b>"Circular dorsal ruffles disturb the growth factor-induced PI3K-AKT pathway in hepatocellular carcinoma Hep3B cells"</b> has been published in <i>Cell Communication and Signaling</i>. Ph.D. student Xiaowei Sun is the first authors. </p>
+  <p>For more information, please check this <a href="https://www.//biosignaling.biomedcentral.com/articles/10.1186/s12964-022-00911-6
+" target="_blank">Biochim Biophys Acta Mol Basis Dis </a>. </p>
+</div>
+  <br>
+  
   <div class="li"><b>2022/May/1th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our collaboration paper <b>"HIF-1α/FOXO1 axis regulated autophagy is protective for β cell survival under hypoxia in human islets"</b> has been published in <i>Biochim Biophys Acta Mol Basis Dis</i>. Dr. Yoshida is one of the co-corresponding authors. </p>
