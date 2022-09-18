@@ -116,6 +116,16 @@ author_profile: true
             <a href="" title="mail">shashakofisk@gmail.com</a><br>
             Undergraduate of Nankai University.<br>
               </td> 
+     </tr>
+     <tr>
+        <td width="65">
+            <img src="../images/Du Linxuan.jpeg" style="float:left;" width="150px" height="190px">
+        </td>
+        <td style="font-size:18px" width="200">
+            <B>杜林轩</B><br>
+            <a href="" title="mail">3487039176@qq.com</a><br>
+            Undergraduate of Nankai University.<br>
+              </td> 
     </tr>
     <tr align="left">
         <td style="font-size:20px" colspan="2" width="265">
