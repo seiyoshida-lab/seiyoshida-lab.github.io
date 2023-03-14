@@ -37,6 +37,7 @@ author_profile: true
   <div class="li"><b>2023/Mar/10th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our new paper has been accepted by Journal of Cellular Physiology. Congratulations, Hayley and Jinzi! </p>  
+  ![230310JZ](/images/230310JZ.jpeg "230310JZ") 
 </div>
   <br>
   
