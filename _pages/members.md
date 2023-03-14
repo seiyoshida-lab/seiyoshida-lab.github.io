@@ -219,7 +219,6 @@ author_profile: true
         <td style="font-size:18px" width="200">
             Undergraduate of Nankai University<br>
             2021.8-2022.6<br>        
-    </tr>
     <tr>
     </table>
 ---
