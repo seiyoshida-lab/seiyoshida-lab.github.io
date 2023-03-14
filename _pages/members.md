@@ -84,7 +84,7 @@ author_profile: true
     </tr>
           <tr>
         <td width="65">
-            <img src="../images/yuxin.jpeg" style="float:left;" width="150px" height="190px">
+            <img src="../images/YX.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
             <B>Yuxin He（何雨欣）</B><br>
@@ -99,7 +99,7 @@ author_profile: true
     </tr>
      <tr>
         <td width="65">
-            <img src="../images/zlc.jpeg" style="float:left;" width="150px" height="190px">
+            <img src="../images/LC.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
             <B>Liangci Zhang（张亮辞）</B><br>
@@ -119,7 +119,7 @@ author_profile: true
      </tr>
      <tr>
         <td width="65">
-            <img src="../images/Du Linxuan.jpeg" style="float:left;" width="150px" height="190px">
+            <img src="../images/Du LX.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
             <B>杜林轩</B><br>
