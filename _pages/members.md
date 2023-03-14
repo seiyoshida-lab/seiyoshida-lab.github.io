@@ -119,7 +119,7 @@ author_profile: true
      </tr>
      <tr>
         <td width="65">
-            <img src="../images/Du LX.jpeg" style="float:left;" width="150px" height="190px">
+            <img src="../images/LX.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
             <B>杜林轩</B><br>
