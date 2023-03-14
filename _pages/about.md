@@ -51,7 +51,3 @@ Lab Party Time
 ![party0917](/images/party0917.jpeg "party0917")
 
 ![20220618](/images/20220618.jpeg "20220618")
-
-![220715](/images/220715.jpeg "20220715")
-
-![23.3.10 Party‘](/images/23.3.10 Party’.jpeg "23.3.10 Party’")
