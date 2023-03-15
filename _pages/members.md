@@ -122,7 +122,7 @@ author_profile: true
             <img src="../images/LX.jpeg" style="float:left;" width="150px" height="190px">
         </td>
         <td style="font-size:18px" width="200">
-            <B>杜林轩</B><br>
+            <B>Linxuan Du (杜林轩)</B><br>
             <a href="" title="mail">3487039176@qq.com</a><br>
             Undergraduate of Nankai University.<br>
               </td> 
