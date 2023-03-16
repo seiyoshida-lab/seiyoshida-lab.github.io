@@ -170,7 +170,8 @@ author_profile: true
             <B>Xinghui Yu（于兴辉）</B><br>
         </td>
         <td style="font-size:18px" width="200">
-            Exchange PhD Studen<br> 
+            Exchange PhD Studen<br>
+            2022.4-2022.12<br>
         </td> 
     </tr>
       <tr>
