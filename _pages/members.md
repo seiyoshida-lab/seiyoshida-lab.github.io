@@ -143,18 +143,7 @@ author_profile: true
             2017.09-2020.06, Master, Medical School of Shandong University.<br>
         </td>
      </tr>
-    <tr>
-        <td width="65">
-            <img src="../images/yxh.png" style="float:left;" width="150px" height="190px">
-        </td>
-        <td style="font-size:18px" width="200">
-            <B>Xinghui Yu（于兴辉) </B><br>
-            <a href="" title="mail">704316147"at"qq.com</a><br>
-            2021.09-2025.06,Ph.D,Medical School of Nankai University<br>
-            2014.09-2017.06,Master,Hebei Medical University.<br>
-        </td>
-     </tr>
-        <tr align="left">
+    <tr align="left">
          <td style="font-size:20px" colspan="2" width="265">
              <B>Former Lab Member</B>
            </td>
@@ -174,6 +163,14 @@ author_profile: true
         </td>
         <td style="font-size:18px" width="200">
              Associate Professor<br> 
+        </td> 
+     </tr>
+       <tr>
+        <td style="font-size:18px" width="200">
+            <B>Xinghui Yu（于兴辉）</B><br>
+        </td>
+        <td style="font-size:18px" width="200">
+            Exchange PhD Studen<br> 
         </td> 
     </tr>
       <tr>
