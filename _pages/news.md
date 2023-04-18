@@ -47,7 +47,7 @@ author_profile: true
 </div>
   <br>
   
-  <div class="li"><b>2022/July/7th &nbsp;&nbsp; New Paper</b></div>
+  <div class="li"><b>2022/Jul/7th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our paper <b>"Circular dorsal ruffles disturb the growth factor-induced PI3K-AKT pathway in hepatocellular carcinoma Hep3B cells"</b> has been published in <i>Cell Communication and Signaling</i>. Ph.D. student Xiaowei Sun is the first author. </p>
   <p>For more information, please check this <a href="https://biosignaling.biomedcentral.com/articles/10.1186/s12964-022-00911-6
@@ -63,7 +63,7 @@ author_profile: true
 </div>
   <br>
   
-  <div class="li"><b>2021/September/7th &nbsp;&nbsp; New Paper</b></div>
+  <div class="li"><b>2021/Sep/7th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our collaboration paper <b>"Capecitabine Can Induce T Cell Apoptosis: A Potential Immunosuppressive Agent With Anti-Cancer Effect"</b> has been published in <i>Frontiers in Immunology</i>. </p>
   <p>For more information, please check this <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2021.737849/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=737849
