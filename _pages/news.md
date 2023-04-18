@@ -34,6 +34,12 @@ author_profile: true
 </style>
 </head>
 <body>
+  <div class="li"><b>2023/Apr/14th &nbsp;&nbsp; </b></div>
+<div class="content">
+  <p>Congratulations to Jinzi for winning the poster award! </p>  
+</div>
+  <br>
+  
   <div class="li"><b>2023/Mar/10th &nbsp;&nbsp; New Paper</b></div>
 <div class="content">
   <p>Our new paper has been accepted by Journal of Cellular Physiology. Congratulations, Hayley and Jinzi! </p>  
