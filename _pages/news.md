@@ -36,7 +36,7 @@ author_profile: true
 <body>
   <div class="li"><b>2023/Apr/14th &nbsp;&nbsp; </b></div>
 <div class="content">
-  <p>Congratulations to Jinzi for winning the poster award! </p>  
+  <p>Congratulations to Jinzi for winning the poster award at The 18th Annual Meeting of the Chinese Society of Cell Biology! </p>  
 </div>
   <br>
   
