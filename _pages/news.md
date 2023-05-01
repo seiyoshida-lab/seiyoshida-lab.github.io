@@ -34,16 +34,21 @@ author_profile: true
 </style>
 </head>
 <body>
-  <div class="li"><b>2023/Apr/14th &nbsp;&nbsp; </b></div>
+   <div class="li"><b>2023/Apr/29th &nbsp;&nbsp; </b></div>
 <div class="content">
-  <p>Congratulations to Jinzi for winning the poster award at The 18th Annual Meeting of the Chinese Society of Cell Biology! </p>  
+  <p>Our paper "Identification of circular dorsal ruffles as signal platforms for the AKT pathway in glomerular podocytes" has been published in the Journal of Cellular Physiology. Undergraduate student Rui Hua and Master's student Jinzi Wei are the first authors. Congratulations, Hayley and Jinzi! </p> 
 </div>
   <br>
   
-  <div class="li"><b>2023/Mar/10th &nbsp;&nbsp; New Paper</b></div>
+   <div class="li"><b>2023/Apr/29th &nbsp;&nbsp; </b></div>
 <div class="content">
-  <p>Our new paper has been accepted by Journal of Cellular Physiology. Congratulations, Hayley and Jinzi! </p>  
-  <image src="../images/HRJZ.jpeg" width="600px" controls></image>
+  <p>Our collaboration paper with Drs. Hong Zheng and Zhong-Yang Shen from the Tianjin First Central Hospital was accepted by the World Journal of Gastroenterology (WJG). </p>  
+</div>
+  <br>
+  
+  <div class="li"><b>2023/Apr/14th &nbsp;&nbsp; </b></div>
+<div class="content">
+  <p>Congratulations to Jinzi for winning the poster award at The 18th Annual Meeting of the Chinese Society of Cell Biology! </p>  
 </div>
   <br>
   
