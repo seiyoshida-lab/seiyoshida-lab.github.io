@@ -54,4 +54,4 @@ Lab Party Time
 
 ![230310](/images/230310.jpeg "230310") 
 
-![230505](/images/20230505.jpeg "20230505") 
+![Welcome our new member Longjiao](/images/20230505.jpeg "20230505") 
