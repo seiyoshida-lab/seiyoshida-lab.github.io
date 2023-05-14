@@ -34,6 +34,12 @@ author_profile: true
 </style>
 </head>
 <body>
+   <div class="li"><b>2023/May/12th &nbsp;&nbsp; </b></div>
+<div class="content">
+  <p>Dr. Yoshida was invited for a research seminar by Shandong Normal University. </p> 
+</div>
+  <br>
+  
    <div class="li"><b>2023/Apr/29th &nbsp;&nbsp; </b></div>
 <div class="content">
   <p>Our paper "Identification of circular dorsal ruffles as signal platforms for the AKT pathway in glomerular podocytes" has been published in the Journal of Cellular Physiology. Undergraduate student Rui Hua and Master's student Jinzi Wei are the first authors. Congratulations, Hayley and Jinzi! </p> 
