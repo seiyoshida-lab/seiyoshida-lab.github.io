@@ -38,6 +38,7 @@ author_profile: true
 <div class="content">
   <p>Dr. Yoshida was invited to a research seminars by the Shenzhen Third People's Hospital and the Southern University of Science and Technology on May/23rd. </p> 
   <img src="../images/23.5.23-1.jpeg" style="float:left;" width="150px" height="190px">
+  <img src="../images/23.5.23-2.jpeg" style="float:left;" width="150px" height="190px">
 </div>
   <br> 
   
