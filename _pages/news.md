@@ -40,6 +40,8 @@ author_profile: true
   <td width="85">
   <img src="../images/23.5.23-1.jpeg" style="float:left;" width="150px" height="190px">
   <img src="../images/23.5.23-2.jpeg" style="float:left;" width="150px" height="190px">
+  </td>
+        <td style="font-size:18px" width="200">
 </div>
   <br> 
   
