@@ -35,11 +35,12 @@ author_profile: true
 </head>
 <body>
    
-  <div class="li"><b>2023/May/12th &nbsp;&nbsp; </b></div>
+  <div class="li"><b>2023/Oct/13th &nbsp;&nbsp; </b></div>
 <div class="content">
   <p>Master's student Jinzi Wei was nominated for a national scholarship in 2023. Congratulations! </p> 
 </div>
   <br>
+  
   <div class="li"><b>2023/May/23th &nbsp;&nbsp; </b></div>
 <div class="content">
   <p>Dr. Yoshida was invited to a research seminars by the Shenzhen Third People's Hospital and the Southern University of Science and Technology on May/23rd. </p> 
