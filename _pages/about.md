@@ -55,3 +55,5 @@ Lab Party Time
 ![230310](/images/230310.jpeg "230310") 
 
 ![230505](/images/20230505.jpeg "Welcome our new member Longjiao") 
+
+![230505](/images/231013.jpeg "Master's student Jinzi Wei was nominated for a national scholarship in 2023. Congratulations!") 
